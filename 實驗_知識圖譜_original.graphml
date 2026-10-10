@@ -1,0 +1,893 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="node" attr.name="degree" attr.type="long"/>
+<key id="d5" for="node" attr.name="documents" attr.type="string"/>
+<key id="d4" for="node" attr.name="community" attr.type="long"/>
+<key id="d3" for="node" attr.name="description" attr.type="string"/>
+<key id="d2" for="node" attr.name="type" attr.type="string"/>
+<key id="d1" for="node" attr.name="original_name" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="曹操">
+  <data key="d0">曹操</data>
+  <data key="d1">曹操</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">曹操，字孟德，為東漢末年雄才大略的軍閥，亦是討伐董卓義兵的發起人之一。在反董聯軍的籌備階段，曹操不僅傳檄天下召集諸侯，更主導了諸侯會盟的議程，並推舉袁紹擔任盟主以凝聚共識。
+
+身為聯軍要角，曹操展現了卓越的軍事遠見與領導魅力。他積極謀劃戰略，致力於擊潰呂布以剷除董卓，並在聯軍中負責調度各路救應。在識人與用兵方面，曹操展現了極高的眼光，他曾力排眾議，決策由關羽出戰華雄，事後更展現其籠絡人心的手腕，主動撫慰劉備、關羽及張飛三人；同時，在戰場之外，他也細緻地觀察劉備及其陣營，並頻繁與諸侯磋商軍事對策。曹操憑藉其廣納賢才的胸懷，吸引天下豪傑投效，成為左右當時天下局勢的關鍵人物。</data>
+  <data key="d4">4</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">9</data>
+</node>
+<node id="陳宮">
+  <data key="d0">陳宮</data>
+  <data key="d1">陳宮</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">原為曹操隨從，因見曹操殺呂伯奢一家後，認為其不仁而棄之而去。</data>
+  <data key="d4">4</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="衛弘">
+  <data key="d0">衛弘</data>
+  <data key="d1">衛弘</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">孝廉，家中巨富，疏財仗義，資助曹操招募義兵。</data>
+  <data key="d4">4</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="曹嵩">
+  <data key="d0">曹嵩</data>
+  <data key="d1">曹嵩</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">曹操之父，夏侯氏之子，後過房給曹家，是夏侯家族與曹家的血緣樞紐。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="樂進">
+  <data key="d0">樂進</data>
+  <data key="d1">樂進</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">字文謙，陽平衛國人，前來投奔曹操麾下，任帳前吏。</data>
+  <data key="d4">4</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="李典">
+  <data key="d0">李典</data>
+  <data key="d1">李典</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">字曼成，山陽鉅鹿人，前來投奔曹操麾下，任帳前吏。</data>
+  <data key="d4">4</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="夏侯惇">
+  <data key="d0">夏侯惇</data>
+  <data key="d1">夏侯惇</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">字元讓，夏侯嬰之後，曹操族弟，武藝高強，帶兵前來協助曹操討董。</data>
+  <data key="d4">4</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="夏侯淵">
+  <data key="d0">夏侯淵</data>
+  <data key="d1">夏侯淵</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">夏侯惇之族弟，跟隨夏侯惇引兵前來投效曹操。</data>
+  <data key="d4">4</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="曹仁">
+  <data key="d0">曹仁</data>
+  <data key="d1">曹仁</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">字子孝，曹操族弟，兵馬嫺熟，率軍相助曹操。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="曹洪">
+  <data key="d0">曹洪</data>
+  <data key="d1">曹洪</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">字子廉，曹操族弟，武藝精通，率軍相助曹操。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="董卓">
+  <data key="d0">董卓</data>
+  <data key="d1">董卓</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">董卓為東漢末年的權臣，其人專橫跋扈、欺凌皇室，不僅廢黜少帝並自專國政，更以殘暴手段荼毒生靈，成為當時各鎮諸侯共討的奸臣與罪魁禍首。為抵禦各路聯軍的討伐，董卓率領大軍屯兵於虎牢關，是東漢政權動盪時期極具影響力且引發廣泛反抗的核心人物。</data>
+  <data key="d4">3</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">9</data>
+</node>
+<node id="袁紹">
+  <data key="d0">袁紹</data>
+  <data key="d1">袁紹</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">袁紹，字本初，出身於四世三公之顯赫門第。在東漢末年群雄割據之際，他時任渤海太守，在響應曹操所發之矯詔後，率領三萬精兵參與會盟。因其家族背景與政治聲望，袁紹被推舉為討董卓聯軍之盟主，負責統籌各路諸侯的軍馬調度與戰略部署，成為抗衡董卓勢力的核心指揮人物。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">21</data>
+</node>
+<node id="袁術">
+  <data key="d0">袁術</data>
+  <data key="d1">袁術</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">**袁術**為四世三公之後、袁紹之弟，曾擔任後將軍與南陽太守之職。在討伐董卓的聯軍中，他身負負責糧草調度之重任，然其人格局狹隘、心胸偏狹。在聯軍期間，袁術多次因忌賢妒能而做出負面決策：他不僅因聽信讒言而拒絕向孫堅供給糧草，導致孫堅軍因缺糧而慘遭潰敗，更因嫉妒關羽之戰功，屢次刁難劉備一行人。其在聯軍中雖身居要職，卻因私心作祟，成為影響聯軍作戰效能與內部團結的關鍵負面因素。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">3</data>
+</node>
+<node id="公孫瓚">
+  <data key="d0">公孫瓚</data>
+  <data key="d1">公孫瓚</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">作為北平太守的公孫瓚，是參與討伐董卓聯軍的十八路諸侯之一。他與劉備不僅是舊識，更在會盟期間發揮了重要的引領作用，不僅親自帶領劉備、關羽及張飛等精兵參與聯軍，還積極推薦劉備隨軍抗敵。在戰事中，公孫瓚曾親自披掛上陣，與名將呂布交鋒，雖最終因敵勢強大而敗走，但他作為聯軍重要戰力的身份及與劉備深厚的舊交情誼，在該段歷史敘事中佔有關鍵的地位。</data>
+  <data key="d4">1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">4</data>
+</node>
+<node id="劉備">
+  <data key="d0">劉備</data>
+  <data key="d1">劉備</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">劉備，字玄德，身為漢室宗親，曾任平原縣令。他與關羽、張飛桃園結義，情同手足，三人不僅是並肩作戰的夥伴，他更是兩人的義兄。劉備作為公孫瓚的同舍兄弟，受其號召參與討伐董卓的聯軍，並以聯軍將領的身份出席盟會。在戰場上，劉備以仁義著稱，手持雙股劍，曾與關羽、張飛聯手大戰呂布，在討董之役中展現其英雄本色。</data>
+  <data key="d4">1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">5</data>
+</node>
+<node id="關羽">
+  <data key="d0">關羽</data>
+  <data key="d1">關羽</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">關羽，字雲長，為劉備之結義兄弟，兼具馬弓手身份，武藝高超，以勇猛著稱。在群雄討董之際，關羽隨劉備投奔公孫瓚並參與會盟；其於軍中展現驚人戰力，曾於陣前斬殺華雄，威震諸侯。在戰場上，關羽身披鸚鵡戰袍，手持青龍偃月刀，曾與結義兄弟劉備、張飛共同圍攻呂布，是蜀漢早期軍事陣容中不可或缺的核心猛將。</data>
+  <data key="d4">1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">5</data>
+</node>
+<node id="張飛">
+  <data key="d0">張飛</data>
+  <data key="d1">張飛</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">作為一名專研古典文獻的學者，針對上述關於三國時期重要人物張飛的史料與文學敘事進行整合分析，現將其生平節點與人物特徵綜述如下：
+
+張飛，字翼德，出身燕地，為劉備麾下驍勇之將，與關羽、劉備結為生死兄弟。其人性格剛烈勇猛，戰場上慣用丈八蛇矛。在隨同劉備依附公孫瓚並參與討伐董卓的關東聯軍會盟期間，張飛展現了卓越的軍事戰鬥力；他曾怒罵呂布並與其酣戰五十回合而不分勝負，更在虎牢關之戰中與關羽、劉備聯手圍戰呂布，試圖藉此突破防線以擒拿董卓。張飛在這些政治與軍事活動中，不僅作為劉備軍事集團的核心戰力，亦是展現其剛烈武勇與忠義形象的關鍵指標人物。</data>
+  <data key="d4">1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">3</data>
+</node>
+<node id="曹留">
+  <data key="d0">曹留</data>
+  <data key="d1">曹留</data>
+  <data key="d2">GEO</data>
+  <data key="d3">曹操尋見父親並招募義兵的地方。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="東郡">
+  <data key="d0">東郡</data>
+  <data key="d1">東郡</data>
+  <data key="d2">GEO</data>
+  <data key="d3">陳宮離開曹操後前往的地點。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="洛陽">
+  <data key="d0">洛陽</data>
+  <data key="d1">洛陽</data>
+  <data key="d2">GEO</data>
+  <data key="d3">洛陽作為東漢王朝的都城，不僅是當時政治權力的核心樞紐，更在董卓專權時期成為其勢力運作與施政的主要大本營。隨着董卓控制朝政，洛陽的政治地位益發敏感，最終成為關東諸侯組建聯軍討伐的戰略目標，這座歷史名城因而被推向了動盪與戰火的中心。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="討董義兵">
+  <data key="d0">討董義兵</data>
+  <data key="d1">討董義兵</data>
+  <data key="d2">EVENT</data>
+  <data key="d3">各路諸侯響應曹操矯詔，為扶持漢室而集結的軍事行動。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="孔伷">
+  <data key="d0">孔伷</data>
+  <data key="d1">孔伷</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">孔伷，曾任豫州刺史，為東漢末年參與討伐董卓的十八路諸侯之一。在曹操發布討伐董卓的檄文（矯詔）後，孔伷積極響應，親率豫州軍馬會盟於酸棗，共同對抗董卓的專權統治，展現了當時群雄割據下響應反董聯軍的重要角色。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="劉岱">
+  <data key="d0">劉岱</data>
+  <data key="d1">劉岱</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">劉岱為漢末兗州刺史，亦是討伐董卓之十八路諸侯之一。他積極響應曹操發布的討董矯詔，親自率領麾下軍馬加入關東聯軍，參與了針對董卓政權的軍事會盟與討伐行動。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="王匡">
+  <data key="d0">王匡</data>
+  <data key="d1">王匡</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">作為東漢末年的河內太守，王匡是響應曹操矯詔、積極參與討伐董卓聯軍的重要軍事領袖之一。作為聯軍八路諸侯的一員，王匡不僅在聯軍集結期間發揮了政治作用，提議並推動了推選盟主的事宜，亦親自率領河內精銳軍馬投入戰場。然而，在其軍事行動中，王匡曾於與呂布的正面交戰中遭遇挫敗。</data>
+  <data key="d4">1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="張邈">
+  <data key="d0">張邈</data>
+  <data key="d1">張邈</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">張邈為東漢末年的陳留太守，他不僅是響應曹操矯詔、力主討伐權臣董卓的關鍵人物之一，亦在當時的政治格局中擔任十八路諸侯聯軍的重要成員，親自率領麾下軍馬參與了此次歷史性的會盟行動。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="喬瑁">
+  <data key="d0">喬瑁</data>
+  <data key="d1">喬瑁</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">喬瑁為東漢末年的東郡太守。在漢末動亂時期，他積極響應曹操所發佈的討董矯詔，擔任討伐董卓聯軍的關鍵將領之一。在聯軍的組織架構中，他不僅參與了會盟行動，亦與其他諸侯互為聲援，曾於戰略部署中協助河內太守王匡。根據史料記載與諸侯聯軍陣容的歸納，喬瑁被視為十八路諸侯的重要成員，而在部分文獻脈絡中，他亦被歸類為聯軍初期八路主力諸侯之一，是促成反董聯盟軍事力量整合的關鍵人物。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="袁遺">
+  <data key="d0">袁遺</data>
+  <data key="d1">袁遺</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">袁遺，官拜山陽太守，為東漢末年參與討伐董卓聯軍的重要成員之一。在歷史記載與文學敘事中，他曾響應曹操所發出的討伐董卓矯詔，率領軍馬參與會盟；關於其聯軍序列的描述，雖有「十八路諸侯」與「八路諸侯」之異，但均肯定其作為聯軍核心將領的身份。在討董戰爭期間，袁遺不僅參與了集結，亦曾採取軍事行動，協助救援在戰場上受困的王匡軍隊，展現了其在當時政治軍事網絡中的積極角色。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="鮑信">
+  <data key="d0">鮑信</data>
+  <data key="d1">鮑信</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">作為濟北相，鮑信是討伐董卓聯軍中八路諸侯之一。他積極響應曹操的矯詔，親自率領軍馬投入反董卓的軍事行動。在聯軍進軍期間，鮑信因憂慮孫堅在戰事中佔得先機、奪取頭功，遂私下派遣弟弟鮑忠率部出戰華雄；然而，這項策略最終以鮑忠陣亡的慘痛代價告終，導致鮑信的部隊受到嚴重挫敗。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="孔融">
+  <data key="d0">孔融</data>
+  <data key="d1">孔融</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">孔融為東漢末年的北海太守，在歷史敘事與《三國演義》的脈絡中，他以忠義之士的身分響應曹操所發起的矯詔，率軍加入討伐董卓的關東聯軍。在關於諸侯聯軍數目的描述中（分別提及十八路與八路諸侯），歷史考據與文學敘事往往將其列為關鍵參與者之一。在聯軍與董卓軍的軍事對峙中，孔融麾下的部將武安國曾挺身而出，與梟雄呂布展開激烈的單挑對決，此戰役深刻體現了孔融在討董戰役中具備的軍事實力與政治影響力。</data>
+  <data key="d4">1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="張超">
+  <data key="d0">張超</data>
+  <data key="d1">張超</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">廣陵太守張超，乃東漢末年參與反董卓聯盟（十八路諸侯）的重要將領之一。他在獲悉曹操發布矯詔號召天下義士討伐董卓後，積極響應並率領麾下軍馬加入關東軍聯軍，共同參與了針對董卓政權的軍事行動。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="陶謙">
+  <data key="d0">陶謙</data>
+  <data key="d1">陶謙</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">陶謙作為東漢末年的徐州刺史，曾在董卓亂政時期積極響應曹操所發出的討伐矯詔。在當時的政治軍事格局中，陶謙率領麾下精銳軍馬，以十八路諸侯（亦有說法為八路）之一的身份加入討伐董卓的關東聯軍，並參與了旨在推翻董卓暴政的會盟行動，體現了其在漢末動盪局勢中作為地方軍閥參與國家政治博弈的歷史角色。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="馬騰">
+  <data key="d0">馬騰</data>
+  <data key="d1">馬騰</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">馬騰，官拜西涼太守，乃漢末群雄之一。在董卓專權之際，馬騰響應曹操矯詔，率領麾下精銳西涼軍馬加入關東聯軍，並以十八路諸侯之一的身分參與討伐董卓的會盟，為當時反抗中央專制的關鍵軍事力量。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="張楊">
+  <data key="d0">張楊</data>
+  <data key="d1">張楊</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">張楊為東漢末年的上黨太守，在歷史敘事與文學作品中，他以關東聯軍成員的身分活躍於政治舞台。張楊響應曹操所發佈的號召董卓之矯詔，率領軍馬加入討伐董卓的行列，成為聯軍中的重要將領。在參與會盟的過程中，他麾下的部將穆順在與呂布的交戰中不幸被斬殺。張楊在此次軍事行動中展現了其地方割據勢力的影響力，並因參與討董聯軍而與當時群雄建立了複雜的政治連結。</data>
+  <data key="d4">1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="孫堅">
+  <data key="d0">孫堅</data>
+  <data key="d1">孫堅</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">孫堅，字文臺，乃吳郡富春人，人稱「江東猛虎」。他曾官拜烏程侯及長沙太守，以驍勇善戰、勇猛果敢著稱。在群雄響應曹操矯詔討伐董卓之際，孫堅主動請纓擔任聯軍的前部先鋒，率軍進攻汜水關；然而在戰事中，孫堅軍隊曾遭遇董卓軍大將華雄的強勢反擊而一度失利。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">4</data>
+</node>
+<node id="討董聯軍">
+  <data key="d0">討董聯軍</data>
+  <data key="d1">討董聯軍</data>
+  <data key="d2">ORGANIZATION</data>
+  <data key="d3">「討董聯軍」是由袁紹、曹操及各地諸侯共同集結而成的武裝勢力，並推舉袁紹擔任盟主進行領軍。該聯盟的主要目標在於討伐當時專權跋扈的權臣董卓，藉由剷除朝廷內部的董卓勢力，以匡扶漢室、恢復正統統治。這是一場匯集眾諸侯力量，旨在撥亂反正的軍事行動。</data>
+  <data key="d4">4</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">3</data>
+</node>
+<node id="呂布">
+  <data key="d0">呂布</data>
+  <data key="d1">呂布</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">呂布，字奉先，為東漢末年董卓麾下最強之猛將，亦是其義子。他素以武藝蓋世、冠絕群雄著稱，史載其人中呂布，形象威風凜凜，頭戴金冠，身披龍鱗銀鎧，手持方天畫戟，座下騎乘日行千里的名駒赤兔馬。
+
+在政治與軍事活動中，呂布不僅多次親自出戰討伐關東聯軍，並屢次擊敗諸侯陣營之將領，更參與軍機，常與謀士李儒共同商議戰略對策。其武力與戰功在當時的勢力版圖中佔據核心地位，是支撐董卓軍事統治的靈魂人物。</data>
+  <data key="d4">1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">8</data>
+</node>
+<node id="華雄">
+  <data key="d0">華雄</data>
+  <data key="d1">華雄</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">華雄，擔任董卓麾下驍騎校尉兼帳下都督，為人驍勇善戰且性格狂傲。他受命統領五萬精兵鎮守汜水關抵禦關東聯軍，期間表現突出，曾於關外擊敗孫堅，並先後斬殺孫堅帳下將領祖茂與鮑忠。然而，華雄最終在汜水關之役中，被前來討伐董卓的關羽所斬。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">11</data>
+</node>
+<node id="鮑忠">
+  <data key="d0">鮑忠</data>
+  <data key="d1">鮑忠</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">鮑忠為鮑信之弟。在反董卓聯軍討伐之際，鮑忠在未獲上級許可的情況下擅自進兵，意圖挑戰董卓部將華雄；然而因輕敵冒進，最終於交戰中被華雄斬於馬下。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="汜水關">
+  <data key="d0">汜水關</data>
+  <data key="d1">汜水關</data>
+  <data key="d2">GEO</data>
+  <data key="d3">作為關東聯軍討伐董卓軍的重要軍事節點，「汜水關」是董卓防禦聯軍攻勢的第一道戰略關隘與核心防線。在戰役初期，華雄曾在此駐守並構築防線以阻滯聯軍進軍洛陽；後續防務則交由李傕與郭汜共同駐守，作為董卓軍對抗聯軍進攻的前哨與關鍵據點。該關隘不僅是聯軍進入洛陽的必經之門，更是雙方在關東戰場上進行兵力部署與拉鋸的核心地帶。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="聯軍討董">
+  <data key="d0">聯軍討董</data>
+  <data key="d1">聯軍討董</data>
+  <data key="d2">EVENT</data>
+  <data key="d3">「聯軍討董」是一場由袁紹擔任盟主，號召各路諸侯共同集結而成的軍事行動。此舉的核心目標在於對抗董卓的暴政與亂政，並以扶持漢室、匡正朝綱為宗旨，展現了當時群雄在名義上為維護中央正統而形成的臨時性軍事共同體。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="胡軫">
+  <data key="d0">胡軫</data>
+  <data key="d1">胡軫</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">胡軫為董卓麾下將領，在董卓軍對抗關東聯軍時，奉命隨同華雄前往汜水關迎敵。在與孫堅部將程普的交戰過程中，胡軫最終為程普所刺身亡。</data>
+  <data key="d4">5</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="趙岑">
+  <data key="d0">趙岑</data>
+  <data key="d1">趙岑</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">趙岑為董卓麾下將領。在討伐董卓的戰事中，趙岑曾奉命參與防禦關隘的軍事行動，根據相關記載，他先後隨胡軫與華雄一同赴關迎敵，於當時關東聯軍進攻洛陽的戰略防禦體系中扮演了前線將領的角色。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="李肅">
+  <data key="d0">李肅</data>
+  <data key="d1">李肅</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">李肅為董卓麾下將領，曾奉命隨華雄一同赴關禦敵。作為華雄的重要謀士，李肅曾建議華雄採取夜襲戰術突襲孫堅大寨，並成功擊潰孫堅軍。在華雄於戰陣中陣亡後，李肅負責將前線的告急文書帶回，並向董卓彙報戰況。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="韓馥">
+  <data key="d0">韓馥</data>
+  <data key="d1">韓馥</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">冀州刺史，十八路諸侯之一，聯軍的重要成員。</data>
+  <data key="d4">2</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="程普">
+  <data key="d0">程普</data>
+  <data key="d1">程普</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">孫堅麾下四將之一，擅長使用鐵脊蛇矛，曾斬殺胡軫。</data>
+  <data key="d4">5</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="黃蓋">
+  <data key="d0">黃蓋</data>
+  <data key="d1">黃蓋</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">孫堅麾下四將之一，擅長使用鐵鞭，隨孫堅參與征討。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="韓當">
+  <data key="d0">韓當</data>
+  <data key="d1">韓當</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">孫堅麾下四將之一，擅長使用大刀，隨孫堅參與征討。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="祖茂">
+  <data key="d0">祖茂</data>
+  <data key="d1">祖茂</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">孫堅麾下四將之一，擅長使用雙刀，為掩護孫堅脫逃而戴赤幘引開華雄，最終戰死。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="梁東">
+  <data key="d0">梁東</data>
+  <data key="d1">梁東</data>
+  <data key="d2">GEO</data>
+  <data key="d3">孫堅領軍屯紮之地。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="俞涉">
+  <data key="d0">俞涉</data>
+  <data key="d1">俞涉</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">袁術麾下驍將，出戰華雄被斬。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="潘鳳">
+  <data key="d0">潘鳳</data>
+  <data key="d1">潘鳳</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">韓馥麾下上將，受命出戰華雄被斬。</data>
+  <data key="d4">0</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="李儒">
+  <data key="d0">李儒</data>
+  <data key="d1">李儒</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">李儒為東漢末年軍閥董卓麾下核心謀士，在董卓的政治與軍事決策中扮演關鍵角色。他不僅負責為董卓擘畫整體戰略，更積極參與具體的軍事行動，曾協助董卓部署守衛虎牢關的防務。此外，李儒在政治鬥爭中行事狠辣，曾建議董卓誅殺太傅袁隗，以剷除朝中異己，穩固董卓的統治勢力。</data>
+  <data key="d4">3</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="袁隗">
+  <data key="d0">袁隗</data>
+  <data key="d1">袁隗</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">**袁隗**為東漢末年的顯赫官員，官至太傅，出身於「四世三公」的汝南袁氏門第，乃袁紹之叔。在政治局勢動盪之際，由於其姪袁紹發起討伐董卓的軍事行動，導致身在京師的袁隗受此政治牽連，最終遭到董卓下令誅殺並滅門，其家族在朝廷的政治影響力亦隨之慘遭摧毀。</data>
+  <data key="d4">3</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">2</data>
+</node>
+<node id="李傕">
+  <data key="d0">李傕</data>
+  <data key="d1">李傕</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">李傕為董卓麾下之將領。在董卓掌控朝政時期，李傕奉命率軍執行誅滅太傅袁隗家族的殘酷任務，將袁隗全家悉數殺害。隨後，李傕進一步受到重用，被派遣前往汜水關駐守，負責鞏固董卓集團的軍事防線。</data>
+  <data key="d4">3</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="郭汜">
+  <data key="d0">郭汜</data>
+  <data key="d1">郭汜</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">郭汜為董卓麾下之重要將領，曾奉命與李傕共同行動，執行剷除太傅袁隗及其家族的政治肅清任務，隨後被派往把守戰略要地汜水關，負責鞏固董卓政權的防線。</data>
+  <data key="d4">3</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="樊稠">
+  <data key="d0">樊稠</data>
+  <data key="d1">樊稠</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">樊稠為董卓麾下之將領，在東漢末年的軍事局勢中，他曾隨同董卓共同負責防禦虎牢關（成皋關），以抵禦關東聯軍的進攻。作為董卓核心武裝力量的一部分，樊稠在該時期的戰略部署中扮演了守衛京畿門戶的關鍵角色。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="張濟">
+  <data key="d0">張濟</data>
+  <data key="d1">張濟</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">張濟為董卓麾下之重要將領，曾於東漢末年諸侯討董戰役中，協同董卓及其軍團共同鎮守戰略要地虎牢關，負責抵禦關東聯軍的攻勢，在該軍事防禦體系中扮演關鍵的守衛角色。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="方悅">
+  <data key="d0">方悅</data>
+  <data key="d1">方悅</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">方悅為河內太守王匡麾下之名將。在討伐董卓的戰役中，方悅奉命出戰呂布，然而雙方交鋒不足五合，方悅便不敵呂布，最終被其一戟刺死。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="穆順">
+  <data key="d0">穆順</data>
+  <data key="d1">穆順</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">穆順為上黨太守張揚麾下之部將。在相關歷史敘事中，穆順曾持槍出陣，意圖向呂布發起挑戰，然因武藝不敵，旋即被呂布以長戟刺死，戰歿於陣前。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="武安國">
+  <data key="d0">武安國</data>
+  <data key="d1">武安國</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">武安國為北海太守孔融麾下之將領，以擅使鐵鎚聞名。在討伐董卓的戰役中，武安國曾挺身對陣猛將呂布，雙方激戰十餘合，最終武安國因不敵呂布勇武，遭其斬斷手腕而敗陣。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="虎牢關">
+  <data key="d0">虎牢關</data>
+  <data key="d1">虎牢關</data>
+  <data key="d2">GEO</data>
+  <data key="d3">虎牢關為距離洛陽五十里的關鍵戰略要地，亦是董卓軍對抗關東聯軍的重要防線。作為董卓親自駐紮屯兵、旨在迎擊聯軍的主戰場，該地在戰事膠著時，亦成為呂布在面對聯軍攻勢時的退守據點，是整場戰役中決定局勢走向的核心軍事樞紐。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="三英戰呂布">
+  <data key="d0">三英戰呂布</data>
+  <data key="d1">三英戰呂布</data>
+  <data key="d2">EVENT</data>
+  <data key="d3">劉備、關羽、張飛三人在虎牢關前與呂布展開的激烈激戰。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<node id="漢獻帝">
+  <data key="d0">漢獻帝</data>
+  <data key="d1">漢獻帝</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">文中提到的「劉協」，被董卓廢立的懦弱皇帝。</data>
+  <data key="d4">3</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">1</data>
+</node>
+<node id="少帝">
+  <data key="d0">少帝</data>
+  <data key="d1">少帝</data>
+  <data key="d2">PERSON</data>
+  <data key="d3">遭董卓廢黜的皇帝。</data>
+  <data key="d4">-1</data>
+  <data key="d5">三英戰呂布_段落編碼v1.txt</data>
+  <data key="d6">0</data>
+</node>
+<edge source="曹操" target="陳宮" id="0">
+  <data key="d7">陳宮本隨曹操，後因曹操殺伐之事疑其不仁而棄之而去</data>
+  <data key="d8">5.0</data>
+</edge>
+<edge source="曹操" target="衛弘" id="0">
+  <data key="d7">衛弘慷慨資助曹操招募義兵，使曹操起事得以成行</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="曹操" target="夏侯惇" id="0">
+  <data key="d7">兩人為同族兄弟，夏侯惇率軍追隨曹操起兵</data>
+  <data key="d8">10.0</data>
+</edge>
+<edge source="曹操" target="樂進" id="0">
+  <data key="d7">樂進投奔曹操帳下，成為其部將</data>
+  <data key="d8">7.0</data>
+</edge>
+<edge source="曹操" target="李典" id="0">
+  <data key="d7">李典投奔曹操帳下，成為其部將</data>
+  <data key="d8">7.0</data>
+</edge>
+<edge source="曹操" target="袁紹" id="0">
+  <data key="d7">曹操與袁紹兩者曾為討伐董卓的戰略夥伴，曹操於發出矯詔號召天下義士共同反抗董卓暴政後，袁紹積極響應此舉並率領精兵前往會盟；在聯軍正式成立之際，曹操主動推舉袁紹擔任關東聯軍盟主，確立了雙方共同對抗董卓的軍事合作關係。</data>
+  <data key="d8">17.0</data>
+</edge>
+<edge source="曹操" target="袁紹" id="1">
+  <data key="d7">袁紹為盟主，曹操則負責各路調度與救應</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="曹操" target="董卓" id="0">
+  <data key="d7">曹操視董卓為欺君害民之賊，發起義兵誓欲討之</data>
+  <data key="d8">10.0</data>
+</edge>
+<edge source="曹操" target="關羽" id="0">
+  <data key="d7">曹操賞識關羽的英勇氣概，支持其出戰並在賽後贈酒撫慰</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="曹操" target="討董聯軍" id="0">
+  <data key="d7">曹操發布檄文召集聯軍，並積極參與進兵策劃</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="夏侯惇" target="夏侯淵" id="0">
+  <data key="d7">兩人為族兄弟，共同率部投效曹操</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="董卓" target="華雄" id="0">
+  <data key="d7">華雄為董卓帳下之驍將，深得董卓器重與信任。在討伐董卓的聯軍崛起之際，董卓特命華雄擔任都督一職，派遣其坐鎮汜水關，負責統率軍隊以抵禦關東聯軍的進攻，並作為董卓防線中的關鍵將領，扼守關隘重地。</data>
+  <data key="d8">18.0</data>
+</edge>
+<edge source="董卓" target="李儒" id="0">
+  <data key="d7">以下為針對董卓與李儒之人物關係與歷史定位的綜合敘述：
+
+**董卓與李儒之關係摘要：**
+
+李儒為董卓麾下最為核心的親信謀士，在董卓的政治與軍事架構中扮演了關鍵角色。李儒不僅負責處理各項繁瑣軍務並作為董卓的參謀核心，協助其進行戰略決策，更積極參與具體的軍事部署，諸如虎牢關防守戰役的佈局與指揮。在政治權謀方面，李儒亦深入參與董卓集團的決策核心，曾為其提供誅殺袁隗等極端政治清算之建議，是董卓威權統治與軍事擴張中不可或缺的權謀支柱。</data>
+  <data key="d8">27.0</data>
+</edge>
+<edge source="董卓" target="袁隗" id="0">
+  <data key="d7">作為東漢末年的權臣，董卓為鞏固其專擅的政治地位並清除朝中反對勢力，將位居高位、素有政治影響力的太傅袁隗視為心腹大患；加之袁隗的侄子袁紹領軍起兵討伐董卓，董卓遂遷怒於袁氏宗族，最終下令派兵將袁隗及其全家誅滅，以此震懾朝野並瓦解袁氏在中央的政治根基。</data>
+  <data key="d8">30.0</data>
+</edge>
+<edge source="董卓" target="李傕" id="0">
+  <data key="d7">李傕為董卓麾下之核心軍事將領，深獲董卓信任，長期擔任其推動政治清洗與軍事防禦的關鍵執行者。在董卓鞏固統治的過程中，李傕不僅受命執行針對袁隗等政治異己的殘酷誅滅行動，亦負責鎮守關隘戰略要地（如汜水關），是董卓政權穩定與擴張軍事影響力的重要爪牙。</data>
+  <data key="d8">17.0</data>
+</edge>
+<edge source="董卓" target="郭汜" id="0">
+  <data key="d7">郭汜為董卓手下大將，受董卓之命執行殺戮任務</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="董卓" target="呂布" id="0">
+  <data key="d7">身為一名專注於古典文獻與人物網絡研究的數位人文學者，根據您提供的資料，針對董卓與呂布的互動關係，我為您梳理並整合出以下摘要：
+
+**摘要：**
+
+呂布為董卓麾下之得力大將，兩人隸屬於主從與軍事指揮關係。在反董聯軍興起之際，董卓委任呂布擔任防禦重任，命其鎮守虎牢關以抵禦各路諸侯的聯合進攻。呂布作為董卓軍事力量的核心屏障，負責前線迎戰敵軍，展現了當時董卓陣營內部的軍事部署與階級職能結構。</data>
+  <data key="d8">19.0</data>
+</edge>
+<edge source="董卓" target="張飛" id="0">
+  <data key="d7">張飛在擊退呂布後，意圖直取虎牢關以擒拿董卓</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="董卓" target="漢獻帝" id="0">
+  <data key="d7">董卓廢黜少帝並控制劉協，使皇帝處於懦弱恐懼中</data>
+  <data key="d8">10.0</data>
+</edge>
+<edge source="袁紹" target="韓馥" id="0">
+  <data key="d7">韓馥為討伐董卓聯軍中的諸侯之一，在袁紹發起會盟邀約後，韓馥積極響應並加入其麾下，成為該反董聯盟體系中的重要成員，與袁紹共同參與這一場旨在對抗董卓暴政的政治與軍事行動。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="孔伷" id="0">
+  <data key="d7">孔伷作為討伐董卓聯軍的諸侯之一，積極響應盟主袁紹的會盟邀約，並在袁紹的號召下，以聯軍諸侯的身分隸屬於其麾下，共同參與對抗董卓的軍事行動。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="劉岱" id="0">
+  <data key="d7">劉岱作為東漢末年關東討董聯軍的諸侯之一，積極響應盟主袁紹的會盟邀約，並在袁紹的號召下參與該反董軍事同盟，於名義與戰略部署上均屬於袁紹麾下的聯軍陣營，雙方共同構成了反抗董卓政權的核心勢力網。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="王匡" id="0">
+  <data key="d7">袁紹與王匡在東漢末年的政治軍事版圖中，共同構成了反董卓聯軍的核心結構。袁紹憑藉其四世三公的門第聲望，被推舉為討董聯軍的盟主，總攬全局並負責戰略部署。在此背景下，身為地方勢力的王匡積極響應袁紹的號召，以聯軍諸侯的身分加入會盟。在袁紹的統一調遣下，王匡受命成為防禦戰線中的「八路諸侯」之一，領軍前往虎牢關正面迎擊董卓軍隊，展現了當時聯軍內部以袁紹為核心、諸侯分兵佈防的嚴密軍事體系。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="張邈" id="0">
+  <data key="d7">張邈作為討董聯軍的關鍵諸侯之一，積極響應了袁紹所發起的會盟邀約，並以聯軍成員的身分隸屬於袁紹麾下，共同參與針對董卓的軍事行動，體現了東漢末年關東群雄在反董旗幟下的聯盟結構與勢力從屬關係。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="喬瑁" id="0">
+  <data key="d7">喬瑁作為東漢末年參與討伐董卓聯軍的諸侯之一，積極響應當時擔任盟主的袁紹所發起的會盟邀約，並於軍事行動中歸屬於袁紹麾下的聯軍陣營，共同參與針對董卓的軍事對抗。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="袁遺" id="0">
+  <data key="d7">袁遺與袁紹二人同屬袁氏家族成員，在東漢末年的政治局勢中，袁遺作為反董卓聯合軍的諸侯之一，積極響應袁紹所發起的討董會盟，並以聯軍諸侯的身分隸屬於袁紹的麾下陣營，共同參與對抗董卓的軍事行動。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="鮑信" id="0">
+  <data key="d7">鮑信作為討董聯軍的諸侯之一，響應袁紹的會盟邀約</data>
+  <data key="d8">7.0</data>
+</edge>
+<edge source="袁紹" target="孔融" id="0">
+  <data key="d7">孔融作為「建安七子」之一，以其卓越的文才與名士風範著稱。在東漢末年政治動盪之際，面對董卓擅權亂政的局勢，孔融積極投身於由袁紹所號召的「討董聯軍」。在該反董聯盟的架構中，孔融以其中一位重要諸侯的身份響應袁紹的會盟邀約，並正式加入袁紹麾下的聯軍體系，共同參與這場旨在對抗董卓暴政的軍事政治行動，展現了當時士大夫階層在變局下與袁紹軍事集團的互動與結盟關係。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="張超" id="0">
+  <data key="d7">作為東漢末年參與討伐董卓聯軍的重要成員，張超積極響應了由袁紹所發起的會盟邀約，並以聯軍諸侯的身份正式加入袁紹麾下。在這次針對權臣董卓的軍事行動中，張超成為了袁紹統率的各路豪強網絡中的一環，兩者在共同的政治目標下形成了明確的從屬與盟友關係，共同構成了對抗中央權力核心的區域軍事集團。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="陶謙" id="0">
+  <data key="d7">陶謙作為反董卓聯合軍的重要諸侯，積極響應盟主袁紹的號召參與會盟，在袁紹主導的討董聯軍架構中，陶謙被納入袁紹麾下的諸侯體系，共同協作以對抗董卓政權。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="馬騰" id="0">
+  <data key="d7">馬騰為討伐董卓聯軍的諸侯之一，曾積極響應袁紹所發起的會盟邀約，並在名義上隸屬於袁紹麾下的聯軍體系，共同參與這場旨在對抗董卓專權的軍事行動。在當時的政治格局中，馬騰與袁紹建立了明確的軍事同盟關係，由袁紹擔任盟主，統籌各方勢力以執行戰略部署。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="張楊" id="0">
+  <data key="d7">張楊作為討伐董卓聯軍的諸侯之一，積極響應並加入由袁紹所發起的會盟，並在袁紹作為盟主的指揮體系下，成為其麾下聯軍的一員，共同參與對抗董卓的軍事行動。</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="孫堅" id="0">
+  <data key="d7">孫堅作為討董聯軍的諸侯之一，響應袁紹的會盟邀約</data>
+  <data key="d8">7.0</data>
+</edge>
+<edge source="袁紹" target="孫堅" id="1">
+  <data key="d7">孫堅身為先鋒，向袁紹捷報，並在戰敗後向其報告</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="袁紹" target="聯軍討董" id="0">
+  <data key="d7">袁紹被諸侯推舉為盟主，全權指揮軍隊事務</data>
+  <data key="d8">10.0</data>
+</edge>
+<edge source="袁紹" target="袁術" id="0">
+  <data key="d7">袁術是袁紹之弟，負責為聯軍統籌糧草</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="袁紹" target="劉備" id="0">
+  <data key="d7">袁紹因劉備是漢室宗親而准其入座，但在聯軍中地位並不突出</data>
+  <data key="d8">6.0</data>
+</edge>
+<edge source="袁紹" target="袁隗" id="0">
+  <data key="d7">兩人為叔姪關係，因袁紹起兵反董，導致袁隗遭董卓殺害</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="袁紹" target="公孫瓚" id="0">
+  <data key="d7">袁紹調遣公孫瓚參與對抗虎牢關的軍事行動</data>
+  <data key="d8">7.0</data>
+</edge>
+<edge source="袁紹" target="討董聯軍" id="0">
+  <data key="d7">袁紹被推舉為討董聯軍的盟主，統領全局</data>
+  <data key="d8">10.0</data>
+</edge>
+<edge source="袁術" target="孫堅" id="0">
+  <data key="d7">袁術因受人挑撥，拒絕供給孫堅軍糧，導致孫堅軍戰力崩潰</data>
+  <data key="d8">18.0</data>
+</edge>
+<edge source="袁術" target="孫堅" id="1">
+  <data key="d7">孫堅在戰時向袁術催糧，但遭其拒絕</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="袁術" target="關羽" id="0">
+  <data key="d7">袁術因嫉妒與傲慢，輕視關羽的身份並試圖將其逐出帳外</data>
+  <data key="d8">2.0</data>
+</edge>
+<edge source="公孫瓚" target="劉備" id="0">
+  <data key="d7">劉備與公孫瓚為早年師從盧植時的同窗舊識，兩人年少時情誼深厚，曾一同共處求學。此後，劉備在亂世中投靠公孫瓚，並獲得其賞識與保薦，出任平原令一職。隨後，劉備亦追隨公孫瓚參與了討伐董卓的關東聯軍會盟，兩人在軍事與政治上長期保持著緊密的合作與依附關係。</data>
+  <data key="d8">38.0</data>
+</edge>
+<edge source="公孫瓚" target="劉備" id="1">
+  <data key="d7">公孫瓚曾保舉劉備為平原縣令，兩人有交情，劉備隨公孫瓚軍參與會盟</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="公孫瓚" target="討董聯軍" id="0">
+  <data key="d7">公孫瓚帶領兵馬加入討董聯軍並出席會議</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="公孫瓚" target="呂布" id="0">
+  <data key="d7">呂布擊敗公孫瓚並險些將其殺死</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="劉備" target="關羽" id="0">
+  <data key="d7">劉備與關羽（及張飛）為生死與共的結義兄弟。在動盪的亂世中，劉備與關羽建立了深厚的盟誓關係，兩人不僅在情感上情同手足，在軍事行動上也始終保持緊密的戰略協作，長期並肩作戰，共同投身於復興漢室的歷史事業中。</data>
+  <data key="d8">30.0</data>
+</edge>
+<edge source="劉備" target="張飛" id="0">
+  <data key="d7">劉備與張飛為結義兄弟，兩人與關羽情同手足，在「桃園三結義」的誓約下結為生死與共的異姓兄弟。在戰亂頻仍的東漢末年，劉備與張飛長期共同並肩作戰，彼此建立了深厚的戰友關係與互信，共同為開創蜀漢基業而奮鬥。</data>
+  <data key="d8">30.0</data>
+</edge>
+<edge source="劉備" target="呂布" id="0">
+  <data key="d7">劉備參與了圍攻呂布的戰鬥</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="劉備" target="呂布" id="1">
+  <data key="d7">呂布在虎牢關前與劉備、關羽、張飛交戰，被三人圍攻</data>
+  <data key="d8">10.0</data>
+</edge>
+<edge source="關羽" target="華雄" id="0">
+  <data key="d7">關羽在帳下請戰，最終陣斬華雄，立下頭功</data>
+  <data key="d8">10.0</data>
+</edge>
+<edge source="關羽" target="呂布" id="0">
+  <data key="d7">關羽與劉備、張飛共同圍攻呂布</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="關羽" target="呂布" id="1">
+  <data key="d7">關羽參與了圍戰呂布的戰鬥，以青龍寶刀對抗呂布</data>
+  <data key="d8">10.0</data>
+</edge>
+<edge source="張飛" target="呂布" id="0">
+  <data key="d7">張飛與呂布大戰五十合，後聯手關羽、劉備圍攻呂布</data>
+  <data key="d8">10.0</data>
+</edge>
+<edge source="張飛" target="呂布" id="1">
+  <data key="d7">張飛率先出戰呂布，隨後與劉備、關羽共同圍攻呂布</data>
+  <data key="d8">10.0</data>
+</edge>
+<edge source="王匡" target="呂布" id="0">
+  <data key="d7">在虎牢關戰役中，東漢末年名將呂布展現了極高的軍事統御力與個人武勇，他親率部隊與王匡麾下的軍隊正面交鋒，最終成功擊潰王匡的防線，並在戰鬥中斬殺了王匡麾下的驍將方悅，此舉嚴重削弱了王匡軍隊的實力，並震懾了當時聯合討伐董卓的關東聯軍。</data>
+  <data key="d8">18.0</data>
+</edge>
+<edge source="鮑信" target="鮑忠" id="0">
+  <data key="d7">兩人為親兄弟，鮑信指揮鮑忠行軍</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="孔融" target="呂布" id="0">
+  <data key="d7">在東漢末年的亂世紛爭中，呂布與孔融陣營曾發生直接衝突。呂布在戰場上擊敗了孔融麾下的部將武安國，並在交戰過程中將其重傷，此舉不僅削弱了孔融的軍事力量，也體現了呂布作為當時頂尖武將的強悍戰力。</data>
+  <data key="d8">16.0</data>
+</edge>
+<edge source="張楊" target="呂布" id="0">
+  <data key="d7">呂布與張楊兩位軍閥在東漢末年的割據局勢中存在顯著的軍事衝突。根據史料記載，呂布在戰場爭端中斬殺了張楊麾下的部將穆順。此事件反映了當時呂布軍隊與張楊勢力之間劍拔弩張的敵對關係，以及張楊在呂布輾轉奔走、投靠各方勢力期間，作為其周邊重要地方勢力所面臨的軍事壓力與人員折損。</data>
+  <data key="d8">16.0</data>
+</edge>
+<edge source="孫堅" target="汜水關" id="0">
+  <data key="d7">孫堅擔任先鋒，主動進攻汜水關</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="孫堅" target="華雄" id="0">
+  <data key="d7">華雄夜襲孫堅寨，擊敗孫堅並迫其潰逃</data>
+  <data key="d8">18.0</data>
+</edge>
+<edge source="華雄" target="鮑忠" id="0">
+  <data key="d7">在反董卓聯軍討伐期間，華雄擔任董卓麾下的驍騎校尉，與北平太守鮑信之弟鮑忠爆發軍事衝突。華雄展現了強悍的武力，在交戰中陣斬鮑忠，此役不僅削弱了鮑信勢力的軍事實力，也展現了華雄在關東軍進攻初期的軍事壓制力。</data>
+  <data key="d8">23.0</data>
+</edge>
+<edge source="華雄" target="李肅" id="0">
+  <data key="d7">兩人為同僚，共同奉命前往汜水關禦敵</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="華雄" target="李肅" id="1">
+  <data key="d7">李肅為華雄獻計，助其擊敗孫堅</data>
+  <data key="d8">14.0</data>
+</edge>
+<edge source="華雄" target="胡軫" id="0">
+  <data key="d7">兩人為同僚，共同奉命前往汜水關禦敵</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="華雄" target="趙岑" id="0">
+  <data key="d7">兩人為同僚，共同奉命前往汜水關禦敵</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="華雄" target="祖茂" id="0">
+  <data key="d7">華雄追殺並斬殺了替孫堅引開追兵的祖茂</data>
+  <data key="d8">16.0</data>
+</edge>
+<edge source="華雄" target="俞涉" id="0">
+  <data key="d7">華雄在兩軍陣前斬殺了俞涉</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="華雄" target="潘鳳" id="0">
+  <data key="d7">華雄在兩軍陣前斬殺了潘鳳</data>
+  <data key="d8">8.0</data>
+</edge>
+<edge source="華雄" target="聯軍討董" id="0">
+  <data key="d7">華雄作為董卓前線守將，是聯軍討伐的主要障礙</data>
+  <data key="d8">9.0</data>
+</edge>
+<edge source="胡軫" target="程普" id="0">
+  <data key="d7">程普在交戰中刺死胡軫</data>
+  <data key="d8">16.0</data>
+</edge>
+<edge source="韓馥" target="潘鳳" id="0">
+  <data key="d7">韓馥為潘鳳之主公，力保其能斬殺華雄</data>
+  <data key="d8">8.0</data>
+</edge>
+</graph></graphml>
