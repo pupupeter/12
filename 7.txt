@@ -1,0 +1,24 @@
+正文的「張飛」與後附詩歌的「張翼德」是否指同一人？請說明依據與文類。
+
+張飛與張翼德之身分認同說明
+根據所提供的資料，正文中的「張飛」與後附詩歌中的「張翼德」確實是指同一位人物。張飛，字翼德，出身於燕地，是劉備陣營中極具代表性的驍勇之將，同時也是劉備與關羽的結義兄弟 [Data: Entities (16); Relationships (9)] 〔📄 三英戰呂布_段落編碼v1.txt〕. 在史料與文學敘事的脈絡下，張翼德即為張飛的字，這在《三國演義》的文學表現中極為常見，用以強調其燕地出身與剛烈勇猛的性格特徵 [Data: Entities (16); Sources (0)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+文類與依據分析
+從資料內容來看，這兩個名稱出現在不同的文類形式中：
+
+敘事散文（正文記述）：在關於張飛的描述中，明確將其定義為「出身燕地」，並詳述其隨劉備參與討伐董卓、在虎牢關大戰呂布等軍事壯舉。此類文體側重於歷史人物的生平節點、職務背景以及他在軍事集團中的角色與互動關係 [Data: Entities (16)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+韻文（詩歌）：後附的詩歌屬於典型的「詠史詩」或「三國題材文學敘事」。這類文類透過排比與誇張的筆法，讚頌將領的武藝與氣勢，例如詩中描述其「踴出燕人張翼德，手持蛇矛丈八鎗」，將「張翼德」作為詩歌韻律與英雄形象的載體，強化了人物的傳奇色彩 [Data: Sources (0)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+總結
+綜上所述，正文中的「張飛」是該人物的稱名，而「張翼德」則是其表字。兩者在文本中指涉的是同一位蜀漢猛將。文學敘事透過不同的文類——散文敘述其歷史事蹟，韻文詩歌提煉其個人英雄特質——共同建構了張飛在三國歷史文化中的剛烈武勇與忠義形象 [Data: Entities (16); Sources (0); Relationships (68, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Identity of Zhang Fei and Zhang Yide
+Yes, the "Zhang Fei" (張飛) mentioned in the prose and the "Zhang Yide" (張翼德) referenced in the embedded poem refer to the same individual. In historical and literary contexts concerning the Three Kingdoms period, Zhang Fei is his given name, while Yide is his courtesy name (字). The text confirms this identity by describing him as an "Yan" native who served under Liu Bei alongside Guan Yu, highlighting his fierce temperament and the use of his signature weapon, the 18-foot snake-headed spear [Data: Entities (16); Sources (30)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+
+Basis for Identity and Literary Classification
+The identification is supported by both internal textual consistency and the structural use of poetic devices within the narrative. The prose explicitly establishes Zhang Fei as a central military commander and the sworn brother of Liu Bei and Guan Yu who participated in the coalition against Dong Zhuo [Data: Entities (14, 15, 16); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕. The embedded poem, which serves as a traditional literary summary of the battle of Hulao Pass, uses the name "Zhang Yide" to maintain the metrical structure and rhythmic requirements of the verse while referencing his specific visual characteristics, such as his "fierce whiskers" and "round, glaring eyes" [Data: Sources (30)] 〔📄 找不到對應文件 ⚠️含無效編號〕.
+
+From a literary perspective, the inclusion of the poem follows the yan-yi (演義) or historical romance tradition, where prose narrative is frequently punctuated by verse. This stylistic choice serves to:
+
+Elevate the Drama: It reinforces the epic nature of the "Three Heroes Battle Against Lu Bu" (三英戰呂布), transforming a military engagement into a legendary encounter [Data: Sources (29, 30)] 〔📄 找不到對應文件 ⚠️含無效編號〕.
+Synthesize Character Traits: The poem acts as a mnemonic summary of the characters' prowess. While the prose provides the historical/logistical context of the coalition forces and the battlefield situation, the poetry captures the emotive and heroic essence of the figures, ensuring that the reader associates the formal identity of the "general" with the legendary persona of the "warrior" [Data: Reports (1); Entities (16)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+In summary, the transition from prose to poetry is a standard narrative technique in Three Kingdoms literature, where names and courtesy names are used interchangeably to suit the flow of the text while maintaining clear referential continuity [Data: Entities (16); Sources (30)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.

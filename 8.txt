@@ -1,0 +1,25 @@
+「呂布」「溫侯」「奉先」在董卓召集眾將的段落中是否指同一人？
+
+是的，「呂布」、「溫侯」與「奉先」在文中均指涉同一位歷史與文學人物，即董卓麾下最強悍的猛將。
+
+身分與稱號的對應
+在東漢末年的政治與軍事背景中，呂布（字奉先）因其武藝蓋世、冠絕群雄，成為董卓軍事統治的核心支柱 [Data: Entities (35); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕。在討董聯軍與董卓勢力的對抗中，呂布多次以董卓義子的身分親自出戰，不僅在軍機決策中與謀士李儒共同商議，其戰鬥表現更直接影響聯軍的防線穩定 [Data: Entities (35); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+文獻中的稱謂關聯
+根據史料記載與《三國演義》的敘事脈絡，董卓在收到關東聯軍討伐的消息後，曾與眾將商議對策。此時呂布挺身請纓，董卓見狀大喜並稱呼其為「奉先」，同時文中亦明確以「溫侯」指代呂布，描述他展現出足以視關外諸侯如草芥的極高自信 [Data: Sources (4); Entities (35)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+戰場表現與地位
+呂布作為董卓軍中的核心，其形象威風凜凜，手持方天畫戟，座下名駒赤兔馬，在虎牢關之戰中更是讓諸侯軍聞風喪膽的關鍵人物 [Data: Entities (35); Sources (4)] 〔📄 三英戰呂布_段落編碼v1.txt〕。儘管聯軍試圖透過劉備、關羽與張飛的桃園結義組合進行圍戰，呂布依然展現了極高的戰術執行力，是支撐董卓政權防禦聯軍軍事進攻的靈魂人物 [Data: Reports (1); Entities (14, 15, 16); Sources (5, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+
+Yes, "Lü Bu," "Wenhou" (Marquis of Wen), and "Fengxian" all refer to the same individual in the context of the historical narratives regarding Dong Zhuo's military leadership.
+
+Identity and Titles
+Within the records, Lü Bu is identified as a formidable warrior and the adopted son of the chancellor Dong Zhuo [Data: Entities (35)] 〔📄 三英戰呂布_段落編碼v1.txt〕. The title "Wenhou" (溫侯), which translates to the Marquis of Wen, is a noble rank associated with him in the literature, while "Fengxian" (奉先) is his courtesy name [Data: Entities (35); Sources (4, 30)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+
+Role in Dong Zhuo's Military
+In the sequence where Dong Zhuo convenes his generals to respond to the threat posed by the anti-Dong coalition, Lü Bu—referred to by these synonymous names—proactively volunteers to lead the military campaign against the allied forces [Data: Sources (4, 13)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. His reputation as a peerless warrior is established through his tactical contributions and his close counsel with Dong Zhuo’s strategist, Li Ru [Data: Entities (35); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Lü Bu’s status as Dong Zhuo's primary defensive asset is underscored when he takes command of the forces at Hulao Pass to repel the coalition, further cementing his central role in the military operations of the Dong Zhuo regime [Data: Sources (4); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+模型引用了本次沒有提供給它的編號：Sources (30)、Sources (13)。這些引用可能是模型編的，相關敘述請對照原文確認。

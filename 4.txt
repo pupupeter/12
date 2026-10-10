@@ -1,0 +1,27 @@
+「其酒當溫」在關羽返回的上下文中有什麼表現作用？
+
+在三國歷史與文學敘事中，「其酒當溫」不僅是一句簡潔的敘述，更成為展現關羽超凡武藝與冷靜自信的經典文學意象。
+
+武力值的極致展現
+「其酒當溫」的直接表現作用，在於強調關羽在極短時間內斬殺華雄的高效能。在關羽出戰前，曹操曾為其斟上一杯熱酒，關羽留下「酒且斟下，某去便來」的豪言。當他提著華雄首級返回帳下，手中之酒尚存餘溫，此舉將關羽「陣斬華雄」的過程與「溫酒」的冷卻時間建立連結，以視覺化與體感的對比，具體而微地呈現了他「威震乾坤第一功」的驚人戰力 [Data: Sources (20, 21); Entities (15, 36); Relationships (45, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。
+
+角色氣質與敘事節奏
+此細節在文學敘事層面具有關鍵的強化效果。關羽在會盟之初僅是劉備麾下的「馬弓手」，其身份在袁術等諸侯眼中低微不堪，甚至多次遭到排擠與質疑 [Data: Sources (19, 22); Entities (12, 14, 15); Relationships (46, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。然而，透過「溫酒斬華雄」的敘事安排，關羽以絕對的武力打破了這種階級偏見。當他在極短暫的時間內完成任務，不僅映襯出其從容不迫的英雄氣概，也為後續蜀漢軍事集團建立威信、爭取諸侯重視提供了強而有力的論據 [Data: Reports (1); Entities (15, 16); Sources (20, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。
+
+曹操陣營的收攬作用
+此外，從權謀角度觀之，這段情節亦帶有濃厚的政治色彩。曹操作為聯軍中極具眼光的領導者，在群雄質疑關羽身份時，力排眾議予以支持，並在關羽立功後透過「斟酒」與「撫慰」來拉攏人心 [Data: Entities (0); Sources (20, 22); Relationships (47, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。這一系列的過程將武將的英勇與統治者的籠絡手腕結合，「其酒當溫」不僅是讚揚關羽的勳章，也側寫了曹操識人、用人的政治智慧，成為討董聯軍敘事中極為重要的情緒轉折點 [Data: Reports (1); Entities (0, 15); Sources (22, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。
+
+模型引用了本次沒有提供給它的編號：Sources (20)、Sources (21)、Sources (19)、Sources (22)。這些引用可能是模型編的，相關敘述請對照原文確認。
+
+
+The Significance of "The Wine Was Still Warm" in the Context of Guan Yu’s Return
+The phrase "The wine was still warm" (其酒當溫) serves as a potent literary device in the narrative of the Anti-Dong Zhuo coalition, specifically highlighting Guan Yu's exceptional martial prowess and the lightning-fast efficiency of his victory over the enemy general Hua Xiong. By setting the wine down and promising to return before it cooled, and then succeeding in that task, the narrative emphasizes that the duration of the duel was remarkably short—a testament to Guan Yu’s status as a formidable warrior [Data: Reports (1); Entities (15, 36); Sources (20, 21)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+
+Symbolic and Tactical Impact
+This moment functions as a key turning point in the internal dynamics of the coalition. For Cao Cao, who had offered the wine as a gesture of encouragement, the return of Guan Yu with Hua Xiong’s severed head serves to validate his own judgment and foresight in supporting an underestimated "bow-man" over the objections of figures like Yuan Shu [Data: Entities (0, 14, 15); Relationships (45, 47); Sources (19, 20, 22)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. The image of the still-warm cup serves as a stark contrast to the earlier failures of other generals, such as Yu She and Pan Feng, whose quick deaths at the hands of Hua Xiong had demoralized the assembly [Data: Entities (36, 50); Sources (19)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+
+Establishing the Liu-Guan-Zhang Legend
+Furthermore, this feat serves as the foundational moment for the military reputation of the Liu-Guan-Zhang trio. Because they were initially treated with disdain by established lords due to their lower status, the act of斩 (beheading) Hua Xiong provided them with the necessary prestige to establish their influence within the complex political web of the coalition [Data: Reports (1); Entities (14, 15, 16); Sources (18, 22)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. The "warm wine" incident thus acts as both a tactical triumph and a social equalizer, transforming the perception of the brothers from "petty officers" to essential military assets in the eyes of the other warlords [Data: Entities (14, 15, 16); Sources (22)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+
+Historical and Literary Context
+In the broader scope of the conflict against Dong Zhuo, this episode highlights the reliance of the coalition on individual valor. As noted in the historical accounts of the era, the coalition’s reliance on figures like Lu Bu—who served as the primary obstacle to the coalition’s success—meant that individual acts of bravery were often required to balance the scales against the Dong Zhuo regime’s superior defensive fortifications at strategic locations like Sishui Pass and Hulao Pass [Data: Reports (1); Entities (35, 38, 36); Relationships (58, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. Ultimately, the "warm wine" serves as a narrative shorthand for the sudden shift in power and morale that defined the early stages of the anti-Dong campaign.

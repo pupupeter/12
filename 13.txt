@@ -1,0 +1,23 @@
+張飛、關羽、劉備如何先後加入與呂布的交戰？
+
+
+在東漢末年群雄討伐董卓的戰役中，劉備、關羽與張飛三人展現了卓越的軍事戰力，並在虎牢關戰役中與呂布爆發了著名的戰鬥。
+
+張飛首先出戰
+在討伐董卓的過程中，呂布作為董卓方的核心猛將，多次擊敗聯軍諸侯（如王匡、張楊、孔融麾下部將），引發諸侯陣營的恐慌。當公孫瓚親自上陣與呂布交鋒並顯露敗象後，呂布乘勝追擊，試圖斬殺公孫瓚。此時，張飛手持丈八蛇矛、騎著快馬挺身而出，怒斥呂布為「三姓家奴」並將其攔下，兩人隨即展開了激烈的單挑，酣戰五十餘回合不分勝負 [Data: Entities (16); Relationships (61); Sources (27, 28, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。
+
+關羽與劉備的加入
+在張飛與呂布僵持不下之際，關羽見狀立即舞動八十二斤的青龍偃月刀，拍馬上前夾攻。儘管關羽參與夾擊，兩人在圍攻三十回合後仍無法取勝呂布。隨後，劉備掣起雙股劍，策動黃鬃馬加入戰局，形成了「三英戰呂布」的經典場面。三人圍繞呂布進行轉燈兒般的激烈廝殺，最終迫使呂布在應接不暇中尋找破綻撤退 [Data: Entities (14, 15, 16); Relationships (45, 62, +more); Sources (28, 29, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。
+
+透過這場戰役，劉備、關羽與張飛三人以親緣與義結金蘭的結構作為基礎，成功建立起在群雄中的聲望，並展現了蜀漢早期軍事陣容的核心實力 [Data: Reports (1); Entities (14, 15, 16); Relationships (45, 62, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。
+
+The Participation of Liu Bei, Guan Yu, and Zhang Fei in the Battle against Lü Bu
+During the campaign of the Guandong Coalition against Dong Zhuo, Lü Bu established himself as a formidable military obstacle, repeatedly defeating various regional lords at Hulao Pass [Data: Reports (1); Entities (35)] 〔📄 三英戰呂布_段落編碼v1.txt〕. The brothers Liu Bei, Guan Yu, and Zhang Fei eventually entered the fray to challenge his dominance as the coalition struggled to contain his prowess.
+
+Initial Engagement: Zhang Fei
+Zhang Fei was the first of the trio to engage Lü Bu directly during the conflict. As the coalition faced successive losses—including the defeat of Gongsun Zan, who had been struggling against Lü Bu’s superior horse and fighting style—Zhang Fei intervened [Data: Entities (16); Sources (4)] 〔📄 三英戰呂布_段落編碼v1.txt〕. He rode forth to intercept Lü Bu, calling him a "three-surname slave" and engaging him in an intense duel. They fought for approximately fifty rounds without a decisive victor, demonstrating Zhang Fei's significant martial capability [Data: Entities (16); Sources (4)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Escalation: Guan Yu and Liu Bei
+Seeing that Zhang Fei could not overcome Lü Bu alone after their long engagement, Guan Yu immediately joined the battle [Data: Entities (15); Sources (4)] 〔📄 三英戰呂布_段落編碼v1.txt〕. Guan Yu spurred his horse forward, wielding his Green Dragon Crescent Blade to assist his brother, effectively creating a two-on-one scenario. Despite their combined efforts, they were unable to defeat Lü Bu after thirty additional rounds of fighting [Data: Entities (15); Sources (4)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Finally, observing that his brothers were locked in a stalemate, Liu Bei entered the fray wielding his dual swords [Data: Entities (14); Sources (4)] 〔📄 三英戰呂布_段落編碼v1.txt〕. Together, the three brothers surrounded Lü Bu, fighting him in a formation described as resembling a revolving lamp. This intense, coordinated assault eventually forced Lü Bu to retreat, marking a pivotal moment in the coalition's military efforts against the forces of Dong Zhuo [Data: Reports (1); Entities (14, 15, 16); Sources (4)] 〔📄 三英戰呂布_段落編碼v1.txt〕.

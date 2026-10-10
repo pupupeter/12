@@ -1,0 +1,22 @@
+僅依提供的全文，能否交代劉關張結義的完整時間、地點及儀式？
+
+根據所提供的資料，關於劉備、關羽與張飛三人「桃園結義」的具體細節，目前的文獻敘述呈現如下：
+
+關於結義關係的確認
+資料中明確指出劉備、關羽與張飛三人情同手足，不僅是並肩作戰的夥伴，更有結義兄弟的關係。其中劉備為義兄，而關羽與張飛為其結義兄弟 [Data: Entities (14, 15, 16); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕. 這種深厚的關係是蜀漢早期軍事陣容的核心靈魂，三人共同參與討伐董卓的聯軍行動，並在虎牢關戰役中展現了卓越的軍事戰力 [Data: Reports (1); Entities (14, 15, 16); Sources (0+more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+關於結義的時間、地點與儀式
+經檢視所提供的報告、實體資料與原始文本，無法交代劉關張結義的完整時間、地點及儀式。
+
+雖然資料中多次提到劉、關、張三人為「結義兄弟」或「生死兄弟」，且敘述了他們在討伐董卓期間的互動（如在平原縣與公孫瓚會合，以及一同圍戰呂布的戰功），但文件中並未出現關於三人結義具體發生的時間點（如具體年份或季節）、確切地點（僅提及結義兄弟關係的背景與後來的軍事行動），也未描述任何關於結義時的儀式過程 [Data: Entities (14, 15, 16); Sources (0+more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+因此，基於現有的資料範圍，僅能確認他們存在結義兄弟的身分，但無法進一步勾勒出結義儀式發生的背景細節。
+
+
+Based on the provided documents, it is not possible to establish the complete details regarding the time, location, or formal rituals of the oath of brotherhood between Liu Bei, Guan Yu, and Zhang Fei.
+
+The available data confirms that Liu Bei, Guan Yu, and Zhang Fei are "sworn brothers" (結義兄弟) who share a bond described as being "like brothers" (情同手足) [Data: Entities (14, 15, 16)] 〔📄 三英戰呂布_段落編碼v1.txt〕. While the texts mention that they participated in the campaign against Dong Zhuo together—specifically noting their meeting with Gongsun Zan near a mulberry tree in Pingyuan County while Liu Bei was serving as a magistrate—there is no historical or narrative record provided in the source material describing when or where their original oath took place, nor are the specific rituals of their結義 (oath-taking) documented [Data: Entities (14, 16); Sources (010)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+
+The documents focus primarily on their military cooperation and tactical achievements during the coalition campaign, such as their combined effort to confront Lu Bu at Hulao Pass and Guan Yu’s role in slaying Hua Xiong [Data: Reports (1); Entities (14, 15, 16); Sources (010, 028, 030)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. Any information regarding the legendary "Peach Garden" setting often found in wider literary traditions is absent from the provided source tables.
+
+模型引用了本次沒有提供給它的編號：Sources (010)、Sources (028)、Sources (030)。這些引用可能是模型編的，相關敘述請對照原文確認。

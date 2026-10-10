@@ -1,0 +1,25 @@
+呂布「虛刺一戟」中的「虛刺」，在上下文中應如何理解？
+
+「虛刺」的戰術意涵
+「虛刺」在文中不僅是一個單純的動作，更代表了呂布在面對劉、關、張三人聯手圍攻時，軍事壓力已達到極限。當時劉備、關羽與張飛組成緊密的軍事共同體，透過桃園結義的忠義與戰場默契，在虎牢關戰役中對呂布形成了強大的戰術壓制 [Data: Reports (1); Entities (14, 15, 16); Relationships (62, 66, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+根據戰場情境描述，這三個圍住呂布廝殺，呂布「架隔遮攔不定」，處於戰力難以為繼的狀態 [Data: Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕。因此，「虛刺一戟」可以被理解為一種**「聲東擊西」的脫身戰術**。呂布選擇對劉備「虛刺」，目標並非為了擊殺劉備，而是透過突然的攻擊迫使劉備「急閃」，藉此創造出一瞬間的戰術空隙（即所謂「蕩開陣角」），從而實現脫離包圍圈並退守虎牢關的目的 [Data: Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+呂布在聯軍戰事中的角色與侷限
+呂布作為董卓軍事統治的核心節點，其個人的武勇與戰術執行力雖強，多次擊敗包括王匡、公孫瓚在內的聯軍諸侯，並斬殺了如方悅、穆順等聯軍將領 [Data: Reports (1); Entities (13, 23, 35); Relationships (58, 59, 61, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕，但在面對如「劉關張」這種高度協作的軍事團隊時，仍面臨巨大的挫敗風險。
+
+這場戰役顯示了當時聯軍內部勢力的消長與呂布防線的動搖。呂布雖勇冠三軍，但在多名猛將的集體壓迫下，即便如呂布般身披龍鱗銀鎧、座下赤兔馬，也必須採取策略性的防守撤退，以保留實力重整防禦 [Data: Entities (15, 16, 35); Sources (4, 5)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+結論
+總結而言，「虛刺一戟」是呂布在力窮時所採取的智慧型避戰手段，體現了呂布作為戰場名將在極度危險下，仍具備高度的判斷力與執行力。這一幕不僅確認了劉、關、張三人作為蜀漢早期核心戰力的軍事地位，也為後續董卓勢力在虎牢關的防禦失敗埋下了伏筆 [Data: Reports (1); Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+
+In the context of the battle at Hulao Pass, the term "虛刺" (literally "empty thrust" or "feint") describes a tactical deception used by Lu Bu during his combat against Liu Bei, Guan Yu, and Zhang Fei. As the three brothers surrounded him, Lu Bu found himself overwhelmed and unable to break through their coordinated assault [Data: Reports (1); Entities (14, 15, 16); Relationships (62, 66, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Tactical Significance of the Feint
+The "虛刺" refers to a feinting maneuver—a deceptive movement where Lu Bu aimed his halberd at Liu Bei with the appearance of a lethal strike. By directing this sudden, simulated attack toward Liu Bei, Lu Bu forced him to dodge or parry, thereby creating a temporary gap in the brothers' formation. This maneuver was not intended to land a killing blow, but rather to disrupt the tactical unity of his opponents [Data: Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Strategic Outcome
+This tactical distraction proved successful in the immediate moment. By creating a brief opening, Lu Bu was able to "蕩開陣角" (swing aside the corner of the formation) and force his way out of the encirclement [Data: Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕. The feint allowed him to withdraw from the immediate danger of being captured or killed, subsequently allowing him to retreat safely back to Hulao Pass while dragging his weapon behind him [Data: Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+In military terms, this illustrates Lu Bu's high level of combat execution and situational awareness, as he managed to overcome a severe numerical disadvantage through quick thinking and technical skill [Data: Reports (1); Entities (35)] 〔📄 三英戰呂布_段落編碼v1.txt〕. The narrative highlights this event to emphasize both the brothers' combined martial prowess and Lu Bu's cunning as a veteran commander who could identify the precise moment to abandon a disadvantageous engagement [Data: Sources (5); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕.

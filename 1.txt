@@ -1,0 +1,23 @@
+在張飛出場的語境中，「挺丈八蛇矛」描述什麼動作？
+
+在關於張飛的史料與文學敘事脈絡中，「挺丈八蛇矛」描述的是張飛於戰場上展現剛烈武勇與攻擊態勢的動作。這句話不僅表現了他持握武器的戰鬥姿態，更是其作為劉備軍核心猛將形象的標誌性描述。
+
+張飛的武勇形象與軍事表現
+張飛，字翼德，出身燕地，性格剛烈勇猛。在與劉備、關羽結義並共同投奔公孫瓚參與討伐董卓的關東聯軍期間，他展現了卓越的戰鬥力。根據記載，張飛在戰場上慣用丈八蛇矛，並曾於虎牢關之戰中怒罵呂布，雙方酣戰五十回合而不分勝負，隨後更與關羽、劉備聯手圍戰呂布 [Data: Entities (16); Relationships (62, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+圍戰呂布的戰術場景
+「挺丈八蛇矛」的動作場景，通常與張飛在虎牢關前挑戰董卓軍核心猛將呂布緊密相連。當董卓政權倚仗呂布的武藝與軍事執行力作為防線支柱時，張飛率領劉備與關羽展開了激烈的反擊。在圍戰過程中，三人不僅通過緊密的軍事共同體結構壓制呂布的防線，張飛更在擊退呂布後，意圖直取虎牢關以擒拿董卓，充分體現了其積極進攻的性格與戰術執行力 [Data: Reports (1); Entities (16, 35); Relationships (62, 68, 69, +more); Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+總結
+綜上所述，「挺丈八蛇矛」不僅是一個單純的動作描述，它象徵著張飛在反董聯軍戰爭中的英勇表現，是蜀漢早期軍事陣容中不可或缺的靈魂要素。這一動作配合其剛烈的形象，成為了三國文學敘事中關於「燕人張翼德」最具代表性的戰場特徵 [Data: Reports (1); Entities (16); Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+
+In the context of Zhang Fei's appearances in historical and literary accounts, the phrase "wielding the丈八蛇矛" (Zhangba Serpent Spear) serves to describe his aggressive martial demeanor and his primary method of combat. This weapon is explicitly identified as his signature armament, which he utilizes with great intensity during his clashes on the battlefield [Data: Entities (16)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Martial Context and Combat Style
+The descriptions of Zhang Fei using his spear are intrinsically linked to his role as a formidable warrior within Liu Bei’s military group. During the campaign against Dong Zhuo, Zhang Fei’s use of the spear is highlighted when he confronts Lu Bu, a general renowned for being the strongest under Dong Zhuo’s command [Data: Entities (16, 35)] 〔📄 三英戰呂布_段落編碼v1.txt〕. The act of wielding this weapon is not merely a technical movement but a manifestation of his fiery, brave, and impulsive personality, which allowed him to engage in a fierce duel with Lu Bu for fifty rounds without a clear victor [Data: Entities (16); Relationships (62, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Tactical Significance
+The mention of Zhang Fei’s spear often precedes or accompanies high-stakes military maneuvers, such as the famous battle at Hukao Pass. In these engagements, his spear-wielding actions are part of a broader tactical effort where he, alongside his sworn brothers Guan Yu and Liu Bei, coordinates to break through enemy defensive lines [Data: Reports (1); Entities (14, 15, 16)] 〔📄 三英戰呂布_段落編碼v1.txt〕. His combat performance—marked by the use of the丈八蛇矛—establishes him as a pivotal "soul" of the early Shu Han military, reflecting the close kinship and mutual reliance shared by the three brothers [Data: Reports (1); Relationships (68, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+In summary, when texts describe Zhang Fei "wielding the丈八蛇矛," they are illustrating his identity as a ferocious frontline warrior whose combat prowess with the spear was a critical asset in the coalition’s struggle against the forces of Dong Zhuo [Data: Entities (16); Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕.

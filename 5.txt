@@ -1,0 +1,24 @@
+「劉備」「劉玄德」「玄德」在提供的文本中是否指同一人？請提出稱謂銜接的依據。
+
+在提供的資料文本中，「劉備」、「劉玄德」與「玄德」確實皆是指涉同一位歷史人物。以下為其稱謂銜接的依據與人物背景說明：
+
+稱謂與身份的一致性
+根據相關實體記錄，劉備的字號為「玄德」。在多處文獻與敘事中，這些稱謂被交替使用以指代這位漢室宗親。例如，報告中明確將其標記為劉備 [Data: Entities (14)] 〔📄 三英戰呂布_段落編碼v1.txt〕；而來源文本則詳細紀錄了當公孫瓚在軍中見到劉備時，直接稱呼其為「賢弟」，並在對話中互動，顯示出劉備（玄德）身為平原縣令的身份，且其字號即為玄德 [Data: Sources (10, 11)] 〔📄 找不到對應文件 ⚠️含無效編號〕。
+
+人物關係與背景脈絡
+劉備（字玄德）是漢室宗親，曾在討董聯軍中擔任重要角色。他與關羽、張飛桃園結義，情同手足，三人不僅是並肩作戰的夥伴，他更是兩人的義兄 [Data: Entities (14, 15, 16)] 〔📄 三英戰呂布_段落編碼v1.txt〕。在討伐董卓的過程中，劉備依附於公孫瓚麾下並參與會盟 [Data: Entities (13, 14, 15)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+在戰場表現上，劉備以其仁義形象著稱，持有雙股劍。在著名的虎牢關之戰中，劉備與關羽、張飛聯手圍戰呂布，展現了其作為聯軍將領的英雄本色 [Data: Entities (14, 15, 16); Sources (28, 29, 30, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。這些資料顯示，無論文本中使用「劉備」的全名，還是「劉玄德」、「玄德」的字號，皆是指這位參與關東聯軍、率軍對抗董卓政權的劉姓將領。
+
+模型引用了本次沒有提供給它的編號：Sources (10)、Sources (11)、Sources (28)、Sources (29)、Sources (30)。這些引用可能是模型編的，相關敘述請對照原文確認。
+
+
+Yes, "Liu Bei," "Liu Xuande," and "Xuande" all refer to the same individual in the provided texts. In Chinese historical and literary contexts, particularly regarding the Romance of the Three Kingdoms, it is conventional to refer to a person by their given name, courtesy name (zi), and sometimes a shortened version of their courtesy name interchangeably.
+
+Evidence for Identity
+The provided documentation explicitly links these names to the same historical figure through descriptions of his background, titles, and relationships:
+
+Identity Consolidation: The entity record for "Liu Bei" (ID 14) identifies him as "Liu Bei, courtesy name Xuande" (劉備，字玄德). This establishes the direct link between his personal name and his courtesy name. Furthermore, the entity description details his early life as a magistrate of Pingyuan County, his status as a descendant of the Han imperial family, and his oath of brotherhood with Guan Yu and Zhang Fei [Data: Entities (14)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+Textual Usage: The provided report and source materials consistently use these names to describe the same series of actions. For instance, reports describing the formation of the anti-Dong Zhuo coalition discuss "Liu Bei" alongside his military contributions, while the narrative excerpts (Sources) refer to him as "Liu Xuande" or simply "Xuande" when he is addressed by Gongsun Zan or other figures [Data: Reports (1); Sources (10, 28, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+Consistent Biographical Context: Throughout the materials, all references—whether using the name Liu Bei, Liu Xuande, or Xuande—consistently anchor the individual to the same military and social standing: a leader who studied alongside Gongsun Zan, participated in the coalition against Dong Zhuo, and fought alongside his sworn brothers, Guan Yu and Zhang Fei, notably during the engagement against Lu Bu at Hulao Pass [Data: Entities (13, 14, 15, 16); Reports (1); Sources (10, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+In summary, the documents treat these terms as synonymous labels for the same central character, adhering to standard Chinese naming conventions where "Xuande" functions as a respectful and familiar reference to the person formally known as "Liu Bei."

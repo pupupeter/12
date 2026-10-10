@@ -1,0 +1,24 @@
+公孫瓚敗走、呂布追擊、張飛出現、呂布轉戰張飛如何接續？
+
+在虎牢關之戰中，公孫瓚在與呂布的單挑中因不敵而敗走，呂布隨即駕駛赤兔馬高速追擊，情勢危急。張飛見狀挺身而出，接續的戰鬥過程與細節如下：
+
+張飛攔截與單挑呂布
+當呂布追擊公孫瓚至後心，即將以畫戟刺中時，張飛圓睜環眼，怒喝呂布為「三姓家奴」，並挺丈八蛇矛殺出，迫使呂布放棄攻擊公孫瓚，轉而與張飛交鋒。兩人進入激烈的單挑狀態，酣戰五十餘回合，不分勝負 [Data: Reports (1); Entities (16, 35); Relationships (61); Sources (24, 27, 28, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。
+
+劉關張合力圍戰
+張飛與呂布的戰鬥持續中，關羽見狀，隨即拍馬舞動青龍偃月刀加入戰局，兩人合力夾攻呂布，再戰三十回合仍難以取勝。隨後，劉備亦手持雙股劍，策馬上前助戰。劉、關、張三人圍住呂布，呈現「轉燈兒般」的廝殺態勢，此舉令八路諸侯看得目瞪口呆 [Data: Reports (1); Entities (14, 15, 16); Sources (28, 29, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。
+
+戰局與呂布的應對
+面對劉備、關羽、張飛三人的聯手圍攻，呂布開始感到力不從心，逐漸顯露敗象。由於劉關張三人的陣型嚴密且配合無間，呂布最終無力架隔遮攔，被迫尋找突破口以求脫身，從而暫時結束了這場在虎牢關前的高強度對決 [Data: Reports (1); Entities (14, 15, 16, 35); Sources (29, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。
+
+
+The Confrontation at Hulao Pass
+The military engagement at Hulao Pass during the campaign against Dong Zhuo featured a dramatic shift in momentum. As the coalition forces faced the formidable Lu Bu, Gongsun Zan attempted to challenge him in personal combat but was quickly overwhelmed and forced to retreat [Data: Entities (13); Relationships (61); Sources (4, 27)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. Lu Bu, mounted on his legendary steed Red Hare, pursued the fleeing Gongsun Zan, his speed and martial prowess posing an immediate threat to the coalition's stability [Data: Entities (35); Relationships (61); Sources (4, 27)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+
+The Intervention of Zhang Fei
+The tide of the battle turned when Zhang Fei, a fierce warrior serving under Liu Bei, intervened to save Gongsun Zan. Witnessing the pursuit, Zhang Fei charged forward, brandishing his serpent spear and shouting insults at Lu Bu, which compelled the latter to abandon his pursuit of Gongsun Zan to engage this new, aggressive opponent [Data: Entities (16); Relationships (68); Sources (4, 27)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. The two warriors engaged in a brutal duel, trading fifty blows without a clear victor, which signaled a significant challenge to Lu Bu’s reputation of invincibility [Data: Entities (16); Relationships (62); Sources (4, 28)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+
+The Escalation to a Three-Way Duel
+Recognizing the intensity of the struggle, the conflict rapidly expanded. Guan Yu, observing that Zhang Fei could not overcome Lu Bu alone, joined the fray with his Green Dragon Crescent Blade to assist in the fight [Data: Entities (15); Relationships (62); Sources (4, 28)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. Finally, Liu Bei joined his two sworn brothers, creating a combined assault where all three surrounded Lu Bu [Data: Entities (14, 15, 16); Relationships (62); Sources (4, 28)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. This three-on-one coordination left the coalition forces in awe and forced Lu Bu into a defensive position, struggling to parry the relentless strikes of the trio [Data: Reports (1); Sources (4, 28, 29)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+
+模型引用了本次沒有提供給它的編號：Sources (27)、Sources (28)、Sources (29)。這些引用可能是模型編的，相關敘述請對照原文確認。

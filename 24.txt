@@ -1,0 +1,18 @@
+僅依提供的全文，能否確認張飛在本回結尾已成功擒獲董卓？
+
+根據所提供的資料，無法確認張飛已成功擒獲董卓。事實上，相關記錄顯示該軍事行動在與呂布交戰後即告一段落，並未達成擒獲董卓的目標。
+
+戰場局勢與張飛的行動
+在關東聯軍討伐董卓的過程中，劉備、關羽與張飛作為公孫瓚陣營下的重要戰力，曾於虎牢關前與董卓麾下的核心猛將呂布展開激戰 [Data: Reports (1); Entities (14, 16); Relationships (62, 68, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕。戰鬥中，張飛曾與呂布酣戰五十回合，隨後在劉備與關羽的協助下共同圍攻呂布，最終迫使呂布戰敗退回虎牢關 [Data: Entities (16, 35); Sources (5, P030, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+結尾的戰況總結
+根據資料記載，當三人將呂布趕至虎牢關下時，張飛雖曾看見關上飄動著代表董卓的青羅傘蓋，並一度意圖衝上關口擒拿董卓，但當時張飛的行動僅止於此 [Data: Sources (5, P031)] 〔📄 三英戰呂布_段落編碼v1.txt〕。全文資料對於該次突擊的敘述在張飛大喊「追呂布有甚強處！不如先拿董賊」後，即以「未知勝負如何，且聽下文分解」作為段落結尾，並未提及張飛成功擒獲董卓的結果 [Data: Sources (5, P031, P033)] 〔📄 三英戰呂布_段落編碼v1.txt〕。因此，依據現有資訊，無法確認董卓已被擒獲。
+
+Based on the provided documents, it cannot be confirmed that Zhang Fei successfully captured Dong Zhuo by the end of the narrative. In fact, the text indicates that while Zhang Fei and his sworn brothers, Liu Bei and Guan Yu, displayed remarkable martial prowess by fighting Lu Bu at Hulao Pass, the conflict remained unresolved at the conclusion of the source material [Data: Reports (1); Entities (16); Sources (5, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+The Engagement at Hulao Pass
+During the campaign of the Guandong Coalition, Zhang Fei, Guan Yu, and Liu Bei formed a formidable military unit that engaged the powerful warrior Lu Bu. The three brothers besieged Lu Bu in a intense battle, forcing him to retreat to Hulao Pass [Data: Reports (1); Entities (14, 16, 35); Sources (5, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕. While Zhang Fei suggested pursuing Lu Bu directly to the pass to capture Dong Zhuo—viewing it as a chance to "uproot the source of evil"—the text concludes before such an outcome is achieved [Data: Entities (16); Sources (5, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Status of the Conflict
+The provided sources explicitly state that the narrative leaves the result of these military maneuvers pending. After Zhang Fei's proposal to strike at Dong Zhuo directly, the text provides a poetic summary of the battle but ends with a cliffhanger: "The outcome of the struggle remains unknown; please listen to the next chapter for the explanation" [Data: Sources (5, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕. Consequently, there is no evidence within the provided data to confirm the capture of Dong Zhuo; rather, the records highlight the bravery of the "Three Heroes" in their battle against Lu Bu and their subsequent pursuit toward the pass [Data: Reports (1); Entities (16); Sources (5, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+

@@ -1,0 +1,25 @@
+三人圍攻後，呂布虛刺、玄德閃避、呂布撤走、三人追趕與八路軍掩殺如何接續？
+
+
+虎牢關之戰：呂布敗走與聯軍掩殺
+在關東聯軍與呂布的激戰中，劉備、關羽與張飛三人聯手圍攻呂布，形成了「轉燈兒般」的激烈戰況。當戰局僵持之際，呂布見無法取勝，遂採取誘敵戰術，對著劉備虛刺一戟，迫使劉備緊急閃避。趁著這一瞬間的空隙，呂布蕩開陣腳，拖著方天畫戟拍馬撤退 [Data: Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+聯軍的追擊與董卓之威
+劉、關、張三人並未罷休，緊追呂布不捨，與此同時，現場的八路諸侯聯軍見狀，發出震天動地的喊殺聲，全力掩殺而上，導致呂布的軍馬潰不成軍，紛紛向虎牢關方向敗逃。呂布本人則倉皇逃回關內，而劉、關、張三人隨後趕至關下 [Data: Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+抵達關下後，三人遠望關上，看見董卓旗幟飄揚，張飛認為追擊呂布意義不大，遂提議直接攻向關口擒拿董卓，試圖通過斬殺賊首來達成「斬草除根」的目標，展現了其剛烈的軍事策略 [Data: Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+背景補充：桃園結義與軍事地位
+此次圍戰呂布的戰功，不僅奠定了劉、關、張三人在聯軍中的威望，也確立了他們作為一個緊密軍事共同體的地位。這三人不僅情同手足、桃園結義，更是在公孫瓚的引薦下參與討董，成為蜀漢早期核心戰力的靈魂人物 [Data: Reports (1); Entities (14, 15, 16); Sources (1, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕。在戰場上，張飛手持丈八蛇矛，關羽揮舞青龍偃月刀，劉備則配備雙股劍，三人協同作戰，展現了極高的戰術配合與英勇形象 [Data: Entities (14, 15, 16); Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+
+The Aftermath of the Three-Hero Duel
+Following the intense confrontation where Liu Bei, Guan Yu, and Zhang Fei collectively engaged Lü Bu at Hulao Pass, the tide of the battle shifted dramatically. As Lü Bu found himself unable to overcome the combined assault of the three brothers, he employed a tactical feint: aiming a thrust at Liu Bei to create an opening. When Liu Bei dodged the strike, Lü Bu utilized the momentary gap to retreat, swinging his halberd and fleeing on his famous steed, Red Hare, toward the safety of the pass [Data: Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+The Pursuit and Subsequent Strategic Moves
+Upon seeing Lü Bu retreat, the three heroes—Liu Bei, Guan Yu, and Zhang Fei—immediately pursued him, which triggered a massive surge in morale among the coalition forces. The entire eight-route army launched a full-scale assault, their war cries shaking the heavens as they drove Lü Bu’s forces back toward the pass [Data: Sources (5)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+As the coalition pushed forward, the heroes arrived at the foot of the pass and observed the banners of Dong Zhuo himself fluttering in the breeze. Recognizing the opportunity to strike the source of the conflict, Zhang Fei urged the others to abandon the pursuit of the subordinate and instead storm the pass to capture Dong Zhuo, famously declaring that they should "cut the weeds and pull up the roots" [Data: Sources (4, 5); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Contextual Significance of the Coalition Actions
+This decisive engagement solidified the reputation of the Liu-Guan-Zhang trio as the core combat strength of their camp. Their ability to force a retreat from a warrior as formidable as Lü Bu—who had previously dismantled the forces of various warlords like Wang匡 and defeated the generals of Zhang Yang and Kong Rong—transformed their standing among the coalition leaders [Data: Reports (1); Entities (14, 15, 16, 23, 32, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕. While the coalition, spearheaded by Yuan Shao and organized by Cao Cao, initially struggled with internal organization and suffered losses against Dong Zhuo's elite commanders, this victory at Hulao Pass marked a pivotal moment in the campaign's momentum [Data: Reports (1); Entities (0, 13, 23, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.

@@ -1,0 +1,23 @@
+「雲長……來夾攻呂布」在當時指哪兩人共同攻擊呂布？
+
+在三國時期的歷史敘事與文學記載中，所謂「雲長……來夾攻呂布」的情境，是指劉備、關羽與張飛三人聯手對抗呂布。這場著名的戰鬥發生在虎牢關之戰中，當時呂布作為董卓麾下的最強猛將，在陣前展現了蓋世武藝，令各路諸侯的將領難以招架 [Data: Entities (15, 35); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+劉關張三英戰呂布
+在虎牢關之戰期間，張飛首先與呂布交鋒，兩人酣戰五十回合而不分勝負。隨後關羽持青龍偃月刀加入戰鬥，與張飛聯手夾攻呂布；最終劉備掣雙股劍上前助戰，形成「三英戰呂布」的局面 [Data: Entities (14, 15, 16); Sources (5, 30, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。這場戰鬥展現了劉備軍事集團緊密的戰略協作，透過三人的合力，才最終迫使呂布力窮撤退，逃回虎牢關內 [Data: Reports (1); Entities (14, 16); Relationships (63, 67, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+背景與軍事影響
+劉備、關羽與張飛三人本為結義兄弟，這種基於親緣與義結金蘭的結構，是他們在討董聯軍中得以並肩作戰的基礎 [Data: Reports (1); Entities (14, 15, 16); Relationships (8, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕。當時聯軍由袁紹擔任盟主，旨在對抗董卓的暴政，而劉備集團透過依附公孫瓚參與此軍事行動，並在虎牢關戰役中藉由圍戰呂布的英勇表現，建立起卓越的軍事名聲，確立了其在群雄中的影響力 [Data: Entities (13, 14); Reports (1); Sources (30, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕。
+
+模型引用了本次沒有提供給它的編號：Sources (30)。這些引用可能是模型編的，相關敘述請對照原文確認。
+
+
+
+In the context of the battle at Hulao Pass, the phrase referring to Guan Yu ("Yunchang") joining others to assault Lu Bu pertains to the famous "Three Heroes" collective engagement. Specifically, Guan Yu, Liu Bei, and Zhang Fei worked in unison to attack the formidable warrior Lu Bu [Data: Entities (15, 16, 14); Relationships (63, 67, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+The Participants of the Joint Assault
+The tactical maneuver involved three specific individuals joining forces against Lu Bu. Initially, Zhang Fei engaged Lu Bu in an intense duel, but as the conflict progressed, Guan Yu joined the fray to assist. Subsequently, Liu Bei also intervened, wielding his twin swords to help press the assault. Together, the three warriors surrounded Lu Bu, forcing him to retreat to Hulao Pass [Data: Sources (5); Entities (14, 15, 16); Relationships (63, 67, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+The Significance of the Conflict
+This event is a cornerstone of the narrative regarding the coalition against Dong Zhuo. The coalition, led by Yuan Shao, was comprised of various regional warlords—such as Gongsun Zan, Wang Kuang, and Kong Rong—who sought to restore order and challenge Dong Zhuo's control over the imperial court [Data: Reports (1); Entities (0, 13, 23, 28, 34, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Lu Bu served as the primary military obstacle for the coalition, and his encounter with the trio of Liu, Guan, and Zhang was widely observed by the assembled armies, highlighting both the extraordinary individual prowess of Lu Bu and the rising influence of the Liu Bei military group [Data: Reports (1); Entities (14, 15, 16, 35, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕. This joint action solidified the reputation of the brotherhood, marking a turning point in their military standing during the anti-Dong Zhuo campaign [Data: Reports (1); Entities (14, 15, 16, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.

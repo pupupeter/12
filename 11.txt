@@ -1,0 +1,19 @@
+袁紹與袁術在本回有何親屬關係？袁術被指派負責什麼？
+
+袁紹與袁術的親屬關係及職責
+根據現有史料與報告分析，袁紹與袁術均出身於東漢末年顯赫的「四世三公」名門汝南袁氏。兩人為親兄弟關係，其中袁術為袁紹之弟 [Data: Entities (12); Relationships (27)] 〔📄 三英戰呂布_段落編碼v1.txt〕。儘管兩人出自同門，但在「聯軍討董」的軍事共同體中，他們各自承擔了不同的權力角色與政治責任。
+
+袁術在聯軍中的職責
+在曹操主導的會盟議程中，袁紹被推舉為討董聯軍的盟主，全權負責統籌諸侯的軍馬調度與戰略部署 [Data: Reports (2); Entities (11)] 〔📄 三英戰呂布_段落編碼v1.txt〕。為了維持這場大規模軍事行動的運作，袁紹指派其弟袁術擔任總督糧草之職，負責應付各路軍營的補給需求，以確保聯軍作戰之穩定 [Data: Sources (1); Relationships (27)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+然而，袁術在執行職務期間，因個人格局狹隘與心胸偏狹，多次做出損害聯軍團結的負面決策。例如，他因聽信讒言而拒絕向孫堅供給軍糧，導致孫堅軍戰力崩潰；此外，他也因嫉妒關羽的戰功，在聯軍帳中多次刁難劉備、關羽與張飛等人。這些行為使袁術成為影響聯軍作戰效能與內部向心力的關鍵負面因素 [Data: Entities (12); Relationships (39, 46); Sources (3)] 〔📄 三英戰呂布_段落編碼v1.txt〕
+
+
+Familial Relationship Between Yuan Shao and Yuan Shu
+Yuan Shao and Yuan Shu shared a close familial connection as brothers; specifically, Yuan Shu was the younger brother of Yuan Shao [Data: Entities (12); Relationships (27)] 〔📄 三英戰呂布_段落編碼v1.txt〕. Both were descendants of the prominent "Four Generations and Three Excellencies" (四世三公) lineage of the Ru'nan Yuan clan, a status that granted them significant social and political prestige during the late Eastern Han dynasty [Data: Reports (2); Entities (11, 12)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Yuan Shu’s Responsibilities and Conduct in the Alliance
+During the formation of the anti-Dong Zhuo coalition, Yuan Shao—who was elected as the alliance leader (盟主) due to his prestigious family background and political influence—delegated the critical logistical role of grain and supply management (總督糧草) to his brother, Yuan Shu [Data: Reports (2); Entities (11); Sources (11)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+
+Despite the importance of this position, Yuan Shu’s performance was characterized by personal prejudices and internal conflict. Historical and literary accounts depict him as narrow-minded and prone to jealousy, which severely hampered the coalition's operational efficiency [Data: Entities (12)] 〔📄 三英戰呂布_段落編碼v1.txt〕. For instance, he refused to provide supplies to Sun Jian after listening to slander, an act of spite that led to the collapse of Sun Jian's military strength [Data: Relationships (39, 42); Sources (15)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. Furthermore, his arrogance led him to repeatedly obstruct and belittle Liu Bei, Guan Yu, and Zhang Fei, reflecting the internal friction and lack of cohesion within the alliance structure [Data: Entities (12); Relationships (46); Sources (19, 22)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕.
+

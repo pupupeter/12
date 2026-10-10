@@ -1,0 +1,32 @@
+關羽出戰華雄前後，斟酒、暫不飲酒、出帳、提頭回營的順序為何？本段是否明寫回營後飲酒？
+
+關羽斬華雄之戰況紀實
+在反董卓聯軍討伐華雄的戰役中，關羽的英勇表現成為三國敘事中的經典橋段。根據相關史料記載，關羽在請戰獲得曹操許可後，曹操曾親自為他斟上一杯熱酒以壯行色。當時關羽對曹操表示：「酒且斟下，某去便來。」隨即出帳提刀上馬，並未飲用該杯熱酒 [Data: Sources (3, +more); Relationships (47)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+隨後，關羽在陣前展現了高超的武藝，戰場上鼓聲大振、喊聲大舉，不久後關羽便提著華雄的首級回到中軍。當他將華雄的首級擲於地上時，該杯酒的餘溫尚存，顯示關羽殺敵之迅速，此即著名的「溫酒斬華雄」典故 [Data: Sources (3, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+關於回營後的飲酒情況
+針對您詢問是否明寫回營後飲酒，經查證文獻，書中明確記載了關羽在斬首後回到中軍，將華雄頭顱擲於地上時，杯中酒「當溫」。雖然文學敘事中強調了酒的溫度以襯托關羽的英勇與神速，但原文段落至此處便轉向敘述曹操的大喜反應與後續張飛請戰的情節，並未有明確文字描述關羽在斬首回營後是否將那杯酒飲下 [Data: Sources (3, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+總結時序與細節
+關羽出戰前後的過程如下：
+
+斟酒：曹操為關羽釃熱酒一杯。
+暫不飲酒：關羽回應「酒且斟下，某去便來」，將酒擱置。
+出帳：提刀飛身上馬，前往汜水關前線迎敵。
+提頭回營：斬殺華雄後提著首級回到中軍，此時酒仍溫熱。
+此段落成功塑造了關羽在討董聯軍中脫穎而出的英雄形象，並通過「酒尚溫」這一細節，極大地強化了其戰場宰制能力 [Data: Reports (0); Entities (15, 36); Sources (3, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+
+
+The Sequence of Guan Yu’s Duel with Hua Xiong
+According to the historical and literary records provided, the sequence of events surrounding Guan Yu's challenge against Hua Xiong is as follows: Before heading to the battlefield, Cao Cao pours a cup of warm wine for Guan Yu. Guan Yu tells Cao Cao to set the wine aside, stating he will drink it upon his return [Data: Sources (20)] 〔📄 找不到對應文件 ⚠️含無效編號〕. Guan Yu then leaves the tent, takes up his blade, and mounts his horse to face Hua Xiong. Shortly thereafter, the sounds of battle cease, and Guan Yu returns to the central camp, throwing Hua Xiong's head to the ground [Data: Sources (20)] 〔📄 找不到對應文件 ⚠️含無效編號〕.
+
+The narrative confirms that the wine is still warm upon his return. The text explicitly states that at the moment Guan Yu returns and tosses the head of Hua Xiong to the ground, the cup of wine that Cao Cao had prepared is "still warm" [Data: Sources (20)] 〔📄 找不到對應文件 ⚠️含無效編號〕.
+
+Commentary on the Event and Its Significance
+The duel at Sishui Pass serves as a pivotal moment in the conflict between the Guandong Allied Forces and Dong Zhuo’s military. The battle highlights both the individual prowess of Guan Yu and the strategic atmosphere within the coalition. Before Guan Yu's success, the allied forces suffered significant morale damage due to the loss of several generals—including Yu She, Pan Feng, Bao Zhong, Zu Mao, and the initial defeat of Sun Jian—who were all defeated or slain by Hua Xiong and his tactical advisors, such as Li Su [Data: Reports (0); Entities (36, 37, 42, 49, 50, +more)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Guan Yu’s victory was significant not only for its military impact but also for the internal politics of the coalition. Despite his initial status as a mere "bowman" (ma-gong-shou) under Liu Bei, his success was championed by Cao Cao, who defended Guan Yu’s right to fight against the dismissive attitudes of other coalition members like Yuan Shu [Data: Sources (19, 22); Entities (0, 15, 36, +more)] 〔📄 三英戰呂布_段落編碼v1.txt ⚠️含無效編號〕. This event underscored the contrast between the individual bravery of figures like Guan Yu and the systemic dysfunction, lack of unified command, and petty power struggles that plagued the coalition [Data: Reports (0)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+模型引用了本次沒有提供給它的編號：Sources (20)、Sources (19)、Sources (22)。這些引用可能是模型編的，相關敘述請對照原文確認。

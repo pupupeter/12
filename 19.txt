@@ -1,0 +1,23 @@
+三人圍攻後，能否判定呂布當場被殺？請用後續動作支持答案。
+
+
+根據所提供的資料，無法判定呂布在三人圍攻後當場被殺。事實上，後續的戰鬥細節顯示呂布在面臨劉備、關羽與張飛三人的合力夾擊下，雖然陷入被動，但最終成功擺脫糾纏並撤回關內。
+
+圍攻過程與戰況
+在虎牢關之戰中，劉備、關羽與張飛三人圍攻呂布，戰場形勢極為激烈。張飛與呂布單挑五十餘合不分勝負，隨後關羽加入夾攻，戰至三十餘合仍無法取勝，最後劉備持雙股劍上前助戰。這場圍攻使得呂布在應對上顯得捉襟見肘，史料敘述呂布當時「架隔遮攔不定」 [Data: Sources (4, 5+more); Entities (14, 15, 16+more)] 〔📄 三英戰呂布_段落編碼v1.txt〕。
+
+呂布的脫逃動作
+呂布並未在戰場上被誅殺，而是採取了主動退避的策略。面對三人的緊逼，呂布看準劉備防守上的虛處，虛刺一戟逼退劉備，隨即蕩開陣角，倒拖方天畫戟拍馬撤退。此舉使呂布成功脫離了戰圈，並在劉、關、張三人的追趕下順利逃回虎牢關，並未在當場戰死 [Data: Sources (5+more)] 〔📄 找不到對應文件〕。
+
+後續行動支持
+呂布退回關內後，董卓軍採取了相應的防禦與撤離動作。當劉備、關羽與張飛追趕至關下時，看見關上飄動著董卓的旗幟（青羅傘蓋），張飛隨即提議直接攻上關口擒拿董卓。這些後續的軍事行動證明，呂布當時不僅保住了性命，還成功將聯軍主力攔阻在關外，使得聯軍必須重新考慮如何攻克汜水與虎牢二關以進軍洛陽 [Data: Reports (1+more); Sources (4, 5+more)] 〔📄 三英戰呂布_段落編碼v1.txt〕
+
+Assessment of Lu Bu’s Status Following the Three-Way Duel
+Based on the provided historical narratives, it is not possible to determine that Lu Bu was killed during the confrontation with Liu Bei, Guan Yu, and Zhang Fei. In fact, the accounts explicitly state that Lu Bu survived the engagement and retreated to the safety of Hualao Pass [Data: Sources (4, 5); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+The battle, famously known as the three-way fight against Lu Bu, concluded when the coalition forces pressured him intensely. Seeing that his military advantage was wavering and realizing he could not defeat the three opponents simultaneously, Lu Bu performed a strategic maneuver: he feigned an attack on Liu Bei, causing him to dodge, and utilized the opening to pull back his defenses. He then rode his horse, the "Red Hare," back to the Hualao Pass to escape further combat [Data: Sources (4, 5); Reports (1)] 〔📄 三英戰呂布_段落編碼v1.txt〕.
+
+Post-Duel Actions and Evidence of Survival
+The subsequent actions of the coalition forces further confirm that Lu Bu remained alive after the encounter. Following his retreat, the coalition soldiers collectively cheered, and Liu Bei, Guan Yu, and Zhang Fei pursued him directly to the gate of Hualao Pass [Data: Sources (4, 5)] 〔📄 三英戰呂布_段落編碼v1.txt〕. Upon reaching the gate, the trio observed the flags and defensive infrastructure of Dong Zhuo’s army.
+
+Rather than stopping to mourn a fallen opponent, Zhang Fei explicitly acknowledged that Lu Bu had escaped, shifting the objective of the coalition's attack toward Dong Zhuo himself. Zhang Fei shouted, "This must be Dong Zhuo! What is the point of chasing Lu Bu? It is better to capture the traitor Dong first, to cut the roots of the problem!" [Data: Sources (4, 5); Entities (16)] 〔📄 三英戰呂布_段落編碼v1.txt〕. This reaction serves as definitive evidence that the coalition leaders recognized Lu Bu had successfully fled the battlefield and remained an ongoing threat behind the fortifications of the pass.
